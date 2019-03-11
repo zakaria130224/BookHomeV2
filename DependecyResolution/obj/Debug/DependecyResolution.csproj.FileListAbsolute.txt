@@ -1,0 +1,112 @@
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\DependecyResolution\bin\Debug\DependecyResolution.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\DependecyResolution\bin\Debug\DependecyResolution.pdb
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\DependecyResolution\bin\Debug\EnterpriseSolution.Core.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\DependecyResolution\bin\Debug\EnterpriseSolution.Infrastructure.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\DependecyResolution\bin\Debug\Ninject.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\DependecyResolution\bin\Debug\FluentNHibernate.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\DependecyResolution\bin\Debug\NHibernate.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\DependecyResolution\bin\Debug\Iesi.Collections.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\DependecyResolution\bin\Debug\EnterpriseSolution.Core.pdb
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\DependecyResolution\bin\Debug\EnterpriseSolution.Infrastructure.pdb
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\DependecyResolution\bin\Debug\EnterpriseSolution.Infrastructure.dll.config
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\DependecyResolution\bin\Debug\Ninject.xml
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\DependecyResolution\bin\Debug\FluentNHibernate.pdb
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\DependecyResolution\bin\Debug\FluentNHibernate.xml
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\DependecyResolution\bin\Debug\NHibernate.xml
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\DependecyResolution\bin\Debug\Iesi.Collections.xml
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\DependecyResolution\obj\Debug\DependecyResolution.csprojResolveAssemblyReference.cache
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\DependecyResolution\obj\Debug\DependecyResolution.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\DependecyResolution\obj\Debug\DependecyResolution.pdb
+E:\Projects\EnterpriseSolution\EnterpriseSolution\DependecyResolution\bin\Debug\DependecyResolution.dll
+E:\Projects\EnterpriseSolution\EnterpriseSolution\DependecyResolution\bin\Debug\DependecyResolution.pdb
+E:\Projects\EnterpriseSolution\EnterpriseSolution\DependecyResolution\bin\Debug\EnterpriseSolution.Core.dll
+E:\Projects\EnterpriseSolution\EnterpriseSolution\DependecyResolution\bin\Debug\EnterpriseSolution.Infrastructure.dll
+E:\Projects\EnterpriseSolution\EnterpriseSolution\DependecyResolution\bin\Debug\Ninject.dll
+E:\Projects\EnterpriseSolution\EnterpriseSolution\DependecyResolution\bin\Debug\NHibernate.dll
+E:\Projects\EnterpriseSolution\EnterpriseSolution\DependecyResolution\bin\Debug\FluentNHibernate.dll
+E:\Projects\EnterpriseSolution\EnterpriseSolution\DependecyResolution\bin\Debug\Iesi.Collections.dll
+E:\Projects\EnterpriseSolution\EnterpriseSolution\DependecyResolution\bin\Debug\EnterpriseSolution.Core.pdb
+E:\Projects\EnterpriseSolution\EnterpriseSolution\DependecyResolution\bin\Debug\EnterpriseSolution.Infrastructure.pdb
+E:\Projects\EnterpriseSolution\EnterpriseSolution\DependecyResolution\bin\Debug\Ninject.xml
+E:\Projects\EnterpriseSolution\EnterpriseSolution\DependecyResolution\bin\Debug\NHibernate.xml
+E:\Projects\EnterpriseSolution\EnterpriseSolution\DependecyResolution\bin\Debug\FluentNHibernate.pdb
+E:\Projects\EnterpriseSolution\EnterpriseSolution\DependecyResolution\bin\Debug\FluentNHibernate.xml
+E:\Projects\EnterpriseSolution\EnterpriseSolution\DependecyResolution\bin\Debug\Iesi.Collections.xml
+E:\Projects\EnterpriseSolution\EnterpriseSolution\DependecyResolution\obj\Debug\DependecyResolution.csprojResolveAssemblyReference.cache
+E:\Projects\EnterpriseSolution\EnterpriseSolution\DependecyResolution\obj\Debug\DependecyResolution.dll
+E:\Projects\EnterpriseSolution\EnterpriseSolution\DependecyResolution\obj\Debug\DependecyResolution.pdb
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\trunk\EnterpriseSolution\DependecyResolution\bin\Debug\DependecyResolution.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\trunk\EnterpriseSolution\DependecyResolution\bin\Debug\DependecyResolution.pdb
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\trunk\EnterpriseSolution\DependecyResolution\bin\Debug\EnterpriseSolution.Core.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\trunk\EnterpriseSolution\DependecyResolution\bin\Debug\EnterpriseSolution.Infrastructure.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\trunk\EnterpriseSolution\DependecyResolution\bin\Debug\Ninject.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\trunk\EnterpriseSolution\DependecyResolution\bin\Debug\NHibernate.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\trunk\EnterpriseSolution\DependecyResolution\bin\Debug\FluentNHibernate.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\trunk\EnterpriseSolution\DependecyResolution\bin\Debug\Iesi.Collections.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\trunk\EnterpriseSolution\DependecyResolution\bin\Debug\EnterpriseSolution.Core.pdb
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\trunk\EnterpriseSolution\DependecyResolution\bin\Debug\EnterpriseSolution.Infrastructure.pdb
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\trunk\EnterpriseSolution\DependecyResolution\bin\Debug\EnterpriseSolution.Infrastructure.dll.config
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\trunk\EnterpriseSolution\DependecyResolution\bin\Debug\Ninject.xml
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\trunk\EnterpriseSolution\DependecyResolution\bin\Debug\NHibernate.xml
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\trunk\EnterpriseSolution\DependecyResolution\bin\Debug\FluentNHibernate.pdb
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\trunk\EnterpriseSolution\DependecyResolution\bin\Debug\FluentNHibernate.xml
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\trunk\EnterpriseSolution\DependecyResolution\bin\Debug\Iesi.Collections.xml
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\trunk\EnterpriseSolution\DependecyResolution\obj\Debug\DependecyResolution.csprojResolveAssemblyReference.cache
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\trunk\EnterpriseSolution\DependecyResolution\obj\Debug\DependecyResolution.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\trunk\EnterpriseSolution\DependecyResolution\obj\Debug\DependecyResolution.pdb
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\trunk\EnterpriseSolution\DependecyResolution\obj\Debug\DependecyResolution.csproj.CoreCompileInputs.cache
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\DependecyResolution\bin\Debug\DependecyResolution.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\DependecyResolution\bin\Debug\DependecyResolution.pdb
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\DependecyResolution\bin\Debug\EnterpriseSolution.Core.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\DependecyResolution\bin\Debug\EnterpriseSolution.Infrastructure.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\DependecyResolution\bin\Debug\EnterpriseSolution.Payroll.Core.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\DependecyResolution\bin\Debug\EnterpriseSolution.Payroll.Infrastructure.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\DependecyResolution\bin\Debug\Ninject.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\DependecyResolution\bin\Debug\EntityFramework.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\DependecyResolution\bin\Debug\NHibernate.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\DependecyResolution\bin\Debug\FluentNHibernate.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\DependecyResolution\bin\Debug\Nut.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\DependecyResolution\bin\Debug\EnterpriseSolution.Common.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\DependecyResolution\bin\Debug\Iesi.Collections.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\DependecyResolution\bin\Debug\EnterpriseSolution.Core.pdb
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\DependecyResolution\bin\Debug\EnterpriseSolution.Infrastructure.pdb
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\DependecyResolution\bin\Debug\EnterpriseSolution.Infrastructure.dll.config
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\DependecyResolution\bin\Debug\EnterpriseSolution.Payroll.Core.pdb
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\DependecyResolution\bin\Debug\EnterpriseSolution.Payroll.Infrastructure.pdb
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\DependecyResolution\bin\Debug\EnterpriseSolution.Payroll.Infrastructure.dll.config
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\DependecyResolution\bin\Debug\Ninject.xml
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\DependecyResolution\bin\Debug\EntityFramework.xml
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\DependecyResolution\bin\Debug\NHibernate.xml
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\DependecyResolution\bin\Debug\FluentNHibernate.pdb
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\DependecyResolution\bin\Debug\FluentNHibernate.xml
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\DependecyResolution\bin\Debug\EnterpriseSolution.Common.pdb
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\DependecyResolution\bin\Debug\Iesi.Collections.xml
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\DependecyResolution\obj\Debug\DependecyResolution.csprojAssemblyReference.cache
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\DependecyResolution\obj\Debug\DependecyResolution.csproj.CoreCompileInputs.cache
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\DependecyResolution\obj\Debug\DependecyResolution.csproj.CopyComplete
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\DependecyResolution\obj\Debug\DependecyResolution.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\DependecyResolution\obj\Debug\DependecyResolution.pdb
+C:\Users\USER\Desktop\EnterpriseSolution\DependecyResolution\obj\Debug\DependecyResolution.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\EnterpriseSolution\DependecyResolution\obj\Debug\DependecyResolution.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\EnterpriseSolution\DependecyResolution\obj\Debug\DependecyResolution.dll
+C:\Users\USER\Desktop\EnterpriseSolution\DependecyResolution\obj\Debug\DependecyResolution.pdb
+C:\Users\USER\Desktop\EnterpriseSolution\DependecyResolution\bin\Debug\DependecyResolution.dll
+C:\Users\USER\Desktop\EnterpriseSolution\DependecyResolution\bin\Debug\DependecyResolution.pdb
+C:\Users\USER\Desktop\EnterpriseSolution\DependecyResolution\bin\Debug\EnterpriseSolution.Core.dll
+C:\Users\USER\Desktop\EnterpriseSolution\DependecyResolution\bin\Debug\EnterpriseSolution.Infrastructure.dll
+C:\Users\USER\Desktop\EnterpriseSolution\DependecyResolution\bin\Debug\Ninject.dll
+C:\Users\USER\Desktop\EnterpriseSolution\DependecyResolution\bin\Debug\EntityFramework.dll
+C:\Users\USER\Desktop\EnterpriseSolution\DependecyResolution\bin\Debug\NHibernate.dll
+C:\Users\USER\Desktop\EnterpriseSolution\DependecyResolution\bin\Debug\FluentNHibernate.dll
+C:\Users\USER\Desktop\EnterpriseSolution\DependecyResolution\bin\Debug\Nut.dll
+C:\Users\USER\Desktop\EnterpriseSolution\DependecyResolution\bin\Debug\Iesi.Collections.dll
+C:\Users\USER\Desktop\EnterpriseSolution\DependecyResolution\bin\Debug\EnterpriseSolution.Core.pdb
+C:\Users\USER\Desktop\EnterpriseSolution\DependecyResolution\bin\Debug\EnterpriseSolution.Infrastructure.pdb
+C:\Users\USER\Desktop\EnterpriseSolution\DependecyResolution\bin\Debug\EnterpriseSolution.Infrastructure.dll.config
+C:\Users\USER\Desktop\EnterpriseSolution\DependecyResolution\bin\Debug\Ninject.xml
+C:\Users\USER\Desktop\EnterpriseSolution\DependecyResolution\bin\Debug\EntityFramework.xml
+C:\Users\USER\Desktop\EnterpriseSolution\DependecyResolution\bin\Debug\NHibernate.xml
+C:\Users\USER\Desktop\EnterpriseSolution\DependecyResolution\bin\Debug\FluentNHibernate.pdb
+C:\Users\USER\Desktop\EnterpriseSolution\DependecyResolution\bin\Debug\FluentNHibernate.xml
+C:\Users\USER\Desktop\EnterpriseSolution\DependecyResolution\bin\Debug\Iesi.Collections.xml
+C:\Users\USER\Desktop\EnterpriseSolution\DependecyResolution\obj\Debug\DependecyResolution.csproj.CopyComplete

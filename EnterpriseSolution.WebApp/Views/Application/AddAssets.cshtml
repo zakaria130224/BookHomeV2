@@ -1,0 +1,375 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!-- Bread crumb is created dynamically -->
+<!-- row -->
+<div class="row">
+    <!-- col -->
+    <div class="col-xs-12 col-sm-7 col-md-7 col-lg-4">
+        <h1 class="page-title txt-color-blueDark">
+            <i class="fa-fw fa fa-home"></i> Fixed Asset 
+            <span><i class="fa fa-angle-right"></i>&nbsp;Asset Capture</span>
+        </h1>
+    </div>
+    <!-- end col -->
+    <!-- right side of the page with the sparkline graphs -->
+    <!-- col -->
+    <div class="col-xs-12 col-sm-5 col-md-5 col-lg-4">
+        
+    </div>
+
+        <div class="col-xs-12 col-sm-5 col-md-5 col-lg-4">
+
+            <h1 class="page-title txt-color-blueDark pull-right">
+
+                <a href="#/assets" class="btn btn-default"><i class="fa fa-angle-left"></i>&nbsp; Back To Asset</a>
+
+            </h1>
+        </div>
+        <!-- end col -->
+    </div>
+<!-- end row -->
+<!-- widget grid -->
+
+@*<form ng-submit="saveAsset()">*@
+    <section id="widget-grid" class="">
+        <!-- row -->
+        <div class="row">
+            <!-- NEW WIDGET ROW START -->
+            <div class="col-sm-12">
+                <!-- Widget ID (each widget will need unique ID)-->
+                <div class="jarviswidget" id="wid-id-7" data-widget-colorbutton="false" data-widget-editbutton="false" data-widget-deletebutton="false" data-widget-sortable="false">
+                    <header>
+                        <h2>Asset Capture</h2>
+                        <h2 class="label-success pull-right container"><i class="fa fa-check"></i> Authorised</h2>
+                        @*<h2 class="label-danger pull-right container"><i class="fa fa-crosshairs"></i> unauthorised</h2>*@
+                    </header>
+                    <!-- widget div-->
+                    <div>
+                        <!-- widget edit box -->
+                        <div class="jarviswidget-editbox">
+                            <!-- This area used as dropdown edit box -->
+                            <input class="form-control" type="text">
+                        </div>
+                        <!-- end widget edit box -->
+                        <!-- widget content -->
+                        <div class="widget-body fuelux">
+                            <form id="contactForm" method="post" class="form-horizontal">
+                                <div class="row">
+                                    <div class="col-md-6">
+                                        <fieldset>
+                                            <div class="form-group">
+                                                <label class="col-md-4 control-label">Product Code</label>
+                                                <div class="col-md-8">
+                                                    <input type="text" class="form-control" disabled name="fname" ng-model="assetDataModel.SystemGenarateProductCode">
+                                                </div>
+                                            </div>
+                                        </fieldset>
+                                        <fieldset>
+                                            <div class="form-group">
+                                                <label class="col-md-4 control-label">Product Desctiption</label>
+                                                <div class="col-md-8">
+                                                    <input type="text" class="form-control" name="fname" ng-model="asset.ProductDescription">
+                                                </div>
+                                            </div>
+                                        </fieldset>
+                                        <fieldset>
+                                            <div class="form-group">
+                                                <label class="col-md-4 control-label">Source Code</label>
+                                                <div class="col-md-8">
+                                                    <input type="text" class="form-control" name="fname" ng-model="assetDataModel.SystemGenarateContractRefference" disabled>
+                                                </div>
+                                            </div>
+                                        </fieldset>
+                                    </div>
+                                    <div class="col-md-6">
+                                        <fieldset>
+                                            <div class="form-group">
+                                                <label class="col-md-4 control-label">Contact Referrence</label>
+                                                <div class="col-md-8">
+                                                    <input type="text" class="form-control" name="fname" ng-model="assetDataModel.SystemGenarateContractRefference" disabled>
+                                                </div>
+                                            </div>
+                                        </fieldset>
+                                        <fieldset>
+                                            <div class="form-group">
+                                                <label class="col-md-4 control-label">User Reference</label>
+                                                <div class="col-md-8">
+                                                    <input type="text" class="form-control" name="fname" ng-model="assetDataModel.SystemGenarateUserReffence">
+                                                </div>
+                                            </div>
+                                        </fieldset>
+                                        <fieldset>
+                                            <div class="form-group">
+                                                <label class="col-md-4 control-label">Source Reference</label>
+                                                <div class="col-md-8">
+                                                    <input type="text" class="form-control" name="fname" ng-model="assetDataModel.SourceCode">
+                                                </div>
+                                            </div>
+                                        </fieldset>
+                                    </div>
+                                </div>
+                                <div class="row">
+                                    <div class="col-md-12">
+                                        <div id="exTab3">
+                                            <ul class="nav nav-pills" style="border-bottom:1px solid blue;">
+                                                <li ng-class="AssetActive" ng-click="tabClick('asset')" style="background:#F3F3F3;">
+                                                    <a>Asset Details</a>
+                                                </li>
+                                                <li ng-class="DepresetionActive" ng-click="tabClick('depresetion')" style="background:#F3F3F3;">
+                                                    <a>Depresetion Details</a>
+                                                </li>
+                                            </ul>
+                                            <div class="panel-conainer" ng-show="IsAssetTabActive">
+                                                <div class="row">
+                                                    <div class="col-md-6">
+                                                        <fieldset>
+                                                            <div class="form-group">
+                                                                <label class="col-md-4 control-label">Category</label>
+                                                                <div class="col-md-8">
+                                                                    <select ng-options="catagory.Id as catagory.AssetCategory for catagory in assetDataModel.AssetCategories" ng-model="asset.CategoryId">
+                                                                        <option value="" selected>Please select a Asset Category</option>
+                                                                    </select>
+                                                                </div>
+                                                            </div>
+                                                        </fieldset>
+                                                    </div>
+                                                    <div class="col-md-6">
+                                                        <fieldset>
+                                                            <div class="form-group">
+                                                                <label class="col-md-4 control-label">Category Description</label>
+                                                                <div class="col-md-8">
+                                                                    <input type="text" class="form-control" name="phone" value="Catagory Details" ng-model="asset.catagoryDetails">
+                                                                </div>
+                                                            </div>
+                                                        </fieldset>
+                                                    </div>
+                                                </div>
+
+                                                <div class="row">
+                                                    <div class="col-md-6">
+                                                        <fieldset>
+                                                            <div class="form-group">
+                                                                <label class="col-md-4 control-label">Locations</label>
+                                                                <div class="col-md-8">
+                                                                    <select ng-options="location.Id as location.LocationCode for location in assetDataModel.Locations" ng-model="asset.LocationId">
+                                                                        <option value="" selected>Please select a Location</option>
+                                                                    </select>
+
+                                                                </div>
+                                                            </div>
+                                                        </fieldset>
+                                                    </div>
+                                                    <div class="col-md-6">
+                                                        <fieldset>
+                                                            <div class="form-group">
+                                                                <label class="col-md-4 control-label">Location Description</label>
+                                                                <div class="col-md-8">
+                                                                    <input type="text" class="form-control" name="phone" value="Location Description" ng-model="asset.LocationDescribtion">
+                                                                </div>
+                                                            </div>
+                                                        </fieldset>
+                                                    </div>
+                                                </div>
+
+                                                <div class="row">
+                                                    <div class="col-md-6">
+                                                        <fieldset>
+                                                            <div class="form-group">
+                                                                <label class="col-md-4 control-label">Asset Currency</label>
+                                                                <div class="col-md-8">
+                                                                    <select ng-options="currency.Id as currency.CurrencyCode for currency in assetDataModel.Currencies" ng-model="asset.CurrencyId">
+                                                                        <option value="" selected>Please select a Asset Currency</option>
+                                                                    </select>
+
+                                                                </div>
+                                                            </div>
+                                                        </fieldset>
+                                                    </div>
+                                                    <div class="col-md-6">
+                                                        <fieldset>
+                                                            <div class="form-group">
+                                                                <label class="col-md-4 control-label">Aquired Depreciation</label>
+                                                                <div class="col-md-8">
+                                                                    <input type="text" class="form-control" name="email" placeholder="Book Date" ng-model="asset.AcquiredDescription">
+                                                                </div>
+                                                            </div>
+                                                        </fieldset>
+                                                    </div>
+                                                </div>
+
+                                                <div class="row">
+                                                    <div class="col-md-6">
+                                                        <fieldset>
+                                                            <div class="form-group">
+                                                                <label class="col-md-4 control-label">Asset Cost</label>
+                                                                <div class="col-md-8">
+                                                                    <input type="number" class="form-control text-right" name="phone" ng-model="asset.AssestCost">
+                                                                </div>
+                                                            </div>
+                                                        </fieldset>
+                                                        <fieldset>
+                                                            <div class="form-group">
+                                                                <label class="col-md-4 control-label">Description</label>
+                                                                <div class="col-md-8">
+                                                                    <input type="text" class="form-control"  placeholder="Asset Description" ng-model="asset.Desciption">
+                                                                </div>
+                                                            </div>
+                                                        </fieldset>
+                                                        <fieldset>
+                                                            <div class="form-group">
+                                                                <label class="col-md-4 control-label">Status</label>
+                                                                <div class="col-md-8">
+                                                                    <select ng-options="status.Id as status.StatusName for status in assetDataModel.StatusList" ng-model="asset.StatusId">
+                                                                        <option value="" selected>Please select a status</option>
+                                                                    </select>
+
+                                                                </div>
+                                                            </div>
+                                                        </fieldset>
+                                                        <fieldset>
+                                                            <div class="form-group">
+                                                                <label class="col-md-4 control-label">Book Date</label>
+                                                                <div class="col-md-8">
+                                                                    <input type="date" class="form-control" ng-model="asset.BookDate">
+                                                                </div>
+                                                            </div>
+                                                        </fieldset>
+                                                        <fieldset>
+                                                            <div class="form-group">
+                                                                <label class="col-md-4 control-label">Aquisition Date</label>
+                                                                <div class="col-md-8">
+                                                                    <input type="date" class="form-control" ng-model="asset.AcquisitionDate">
+                                                                </div>
+                                                            </div>
+                                                        </fieldset>
+                                                    </div>
+                                                    <div class="col-md-6">
+                                                        <fieldset>
+                                                            <div class="form-group">
+                                                                <label class="col-md-4 control-label">Residual Value</label>
+                                                                <div class="col-md-8">
+                                                                    <input type="text" class="form-control" ng-model="asset.ResidualValue" placeholder="Residual Value">
+                                                                </div>
+                                                            </div>
+                                                        </fieldset>
+                                                        <fieldset>
+                                                            <div class="form-group">
+                                                                <label class="col-md-4 control-label">Original Reference</label>
+                                                                <div class="col-md-8">
+                                                                    <input type="text" class="form-control" name="email" placeholder="Original Reference" ng-model="asset.OriginalReference">
+                                                                </div>
+                                                            </div>
+                                                        </fieldset>
+                                                        <fieldset>
+                                                            <div class="form-group">
+                                                                <label class="col-md-4 control-label">Capitailization Date</label>
+                                                                <div class="col-md-8">
+                                                                    <input type="date" class="form-control" ng-model="asset.CapitalizationDate">
+                                                                </div>
+                                                            </div>
+                                                        </fieldset>
+                                                        <fieldset>
+                                                            <div class="form-group">
+                                                                <label class="col-md-4 control-label">Effective Description Date</label>
+                                                                <div class="col-md-8">
+                                                                    <input type="date" class="form-control" ng-model="asset.EffectiveDepriciationDate">
+                                                                </div>
+                                                            </div>
+                                                        </fieldset>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="row">
+                                    <div class="col-md-6">
+                                        <fieldset>
+                                            <legend>Useful Life Area</legend>
+                                            <div class="form-group">
+                                                <label class="col-md-4 control-label">Useful Life</label>
+                                                <div class="col-md-8">
+                                                    <input type="text" class="form-control" name="fullName" ng-model="asset.UsefulLife" />
+                                                </div>
+                                            </div>
+                                        </fieldset>
+                                        <fieldset>
+                                            <div class="form-group has-feedback">
+                                                <label class="col-lg-4 control-label">Useful Life In</label>
+                                                <div class="col-lg-8">
+                                                    <div class="checkbox">
+                                                        <label class="radio radio-inline">
+                                                            <input name="rating" value="Year" class="radiobox style-2" ng-model="asset.UsefulLifeType" data-bv-field="rating" type="radio">
+                                                            <span>Year</span>
+                                                        </label>
+                                                    </div>
+                                                    <div class="checkbox">
+                                                        <label class="radio radio-inline">
+                                                            <input name="rating" value="month" class="radiobox style-2" ng-model="asset.UsefulLifeType" data-bv-field="rating" type="radio">
+                                                            <span>Month</span>
+                                                        </label>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </fieldset>
+                                    </div>
+                                    <div class="col-md-6">
+                                        <fieldset>
+                                            <legend>Depreciation Suspension Area</legend>
+                                            <div class="form-group has-feedback">
+                                                <label class="col-lg-4 control-label">Suspended Depreciation</label>
+                                                <div class="col-lg-8">
+                                                    <div class="checkbox">
+                                                        <label>
+                                                            <input name="languages[]" value="french" data-bv-field="languages[]" type="checkbox" ng-model="asset.SuspendedDepreciation">
+                                                        </label>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </fieldset>
+                                        <fieldset>
+                                            <div class="form-group">
+                                                <label class="col-md-4 control-label">Suspension Date</label>
+                                                <div class="col-md-8">
+                                                    <input type="date" class="form-control"  ng-model="asset.SuspensionDate" />
+                                                </div>
+                                            </div>
+                                        </fieldset>
+                                        <fieldset>
+                                          
+                                            <div class="form-group has-feedback">
+                                                <label class="col-lg-4 control-label"><b>authorized status</b></label>
+                                                <div class="col-lg-8">
+                                                    <div class="checkbox">
+                                                        <label>
+                                                            <input name="languages[]" value="french" data-bv-field="languages[]" type="checkbox" ng-model="asset.SuspendedDepreciation">
+                                                        </label>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </fieldset>
+                                    </div>
+                                </div>
+
+                               
+
+                            <saving-process  value="#step1"></saving-process>
+
+                            </form>
+                        </div>
+                        <!-- end widget content -->
+                    </div>
+                    <!-- end widget div -->
+                </div>
+                <!-- end widget -->
+            </div>
+            <!-- WIDGET ROW END -->
+        </div>
+        <!-- end row -->
+    </section>
+    <!-- end widget grid -->
+@*</form>*@

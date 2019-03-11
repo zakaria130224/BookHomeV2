@@ -1,0 +1,91 @@
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebApp.Tests\bin\Debug\ApplicationInsights.config
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebApp.Tests\bin\Debug\EnterpriseSolution.WebApp.Tests.dll.config
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebApp.Tests\bin\Debug\EnterpriseSolution.WebApp.Tests.dll
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebApp.Tests\bin\Debug\EnterpriseSolution.WebApp.Tests.pdb
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebApp.Tests\bin\Debug\EnterpriseSolution.WebApp.dll
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebApp.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebApp.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebApp.Tests\bin\Debug\Newtonsoft.Json.dll
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebApp.Tests\bin\Debug\System.Web.Helpers.dll
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebApp.Tests\bin\Debug\System.Web.Mvc.dll
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebApp.Tests\bin\Debug\System.Web.Razor.dll
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebApp.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebApp.Tests\bin\Debug\System.Web.WebPages.dll
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebApp.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebApp.Tests\bin\Debug\Microsoft.Owin.dll
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebApp.Tests\bin\Debug\System.Web.Optimization.dll
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebApp.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebApp.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebApp.Tests\bin\Debug\Microsoft.Owin.Security.dll
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebApp.Tests\bin\Debug\Owin.dll
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebApp.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebApp.Tests\bin\Debug\EntityFramework.dll
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebApp.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebApp.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebApp.Tests\bin\Debug\EnterpriseSolution.WebApp.pdb
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebApp.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebApp.Tests\bin\Debug\Newtonsoft.Json.xml
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebApp.Tests\bin\Debug\System.Web.Helpers.xml
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebApp.Tests\bin\Debug\System.Web.Mvc.xml
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebApp.Tests\bin\Debug\System.Web.Razor.xml
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebApp.Tests\bin\Debug\System.Web.WebPages.xml
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebApp.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebApp.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebApp.Tests\bin\Debug\Microsoft.Owin.xml
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebApp.Tests\bin\Debug\System.Web.Optimization.xml
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebApp.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebApp.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebApp.Tests\bin\Debug\Microsoft.Owin.Security.xml
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebApp.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebApp.Tests\bin\Debug\EntityFramework.xml
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebApp.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebApp.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebApp.Tests\obj\Debug\EnterpriseSolution.WebApp.Tests.csprojResolveAssemblyReference.cache
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebApp.Tests\obj\Debug\EnterpriseSolution.WebApp.Tests.dll
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebApp.Tests\obj\Debug\EnterpriseSolution.WebApp.Tests.pdb
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebApp.Tests\bin\Debug\ApplicationInsights.config
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebApp.Tests\bin\Debug\EnterpriseSolution.WebApp.Tests.dll.config
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebApp.Tests\bin\Debug\EnterpriseSolution.WebApp.Tests.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebApp.Tests\bin\Debug\EnterpriseSolution.WebApp.Tests.pdb
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebApp.Tests\bin\Debug\EnterpriseSolution.WebApp.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebApp.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebApp.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebApp.Tests\bin\Debug\Newtonsoft.Json.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebApp.Tests\bin\Debug\System.Web.Helpers.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebApp.Tests\bin\Debug\System.Web.Mvc.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebApp.Tests\bin\Debug\System.Web.Razor.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebApp.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebApp.Tests\bin\Debug\System.Web.WebPages.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebApp.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebApp.Tests\bin\Debug\Microsoft.Owin.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebApp.Tests\bin\Debug\System.Web.Optimization.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebApp.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebApp.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebApp.Tests\bin\Debug\Microsoft.Owin.Security.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebApp.Tests\bin\Debug\Owin.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebApp.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebApp.Tests\bin\Debug\EntityFramework.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebApp.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebApp.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebApp.Tests\bin\Debug\EnterpriseSolution.WebApp.pdb
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebApp.Tests\bin\Debug\EnterpriseSolution.WebApp.dll.config
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebApp.Tests\bin\Debug\Newtonsoft.Json.xml
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebApp.Tests\bin\Debug\System.Web.Helpers.xml
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebApp.Tests\bin\Debug\System.Web.Mvc.xml
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebApp.Tests\bin\Debug\System.Web.Razor.xml
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebApp.Tests\bin\Debug\System.Web.WebPages.xml
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebApp.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebApp.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebApp.Tests\bin\Debug\Microsoft.Owin.xml
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebApp.Tests\bin\Debug\System.Web.Optimization.xml
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebApp.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebApp.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebApp.Tests\bin\Debug\Microsoft.Owin.Security.xml
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebApp.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebApp.Tests\bin\Debug\EntityFramework.xml
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebApp.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebApp.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebApp.Tests\obj\Debug\EnterpriseSolution.WebApp.Tests.csproj.CoreCompileInputs.cache
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebApp.Tests\obj\Debug\EnterpriseSolution.WebApp.Tests.csproj.CopyComplete
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebApp.Tests\obj\Debug\EnterpriseSolution.WebApp.Tests.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebApp.Tests\obj\Debug\EnterpriseSolution.WebApp.Tests.pdb

@@ -1,0 +1,28 @@
+﻿<div class="row">
+    <div class="col-md-12">
+        <table class="{{tableStyle}}" style="width: 100%;">
+            <thead>
+                <tr>
+                    <th class="{{headerStyle}}" ng-repeat="header in headers track by $index">{{header}}</th>
+                </tr>
+            </thead>
+            <tbody ng-show="showTable">
+                <tr ng-repeat="obj in tableRawData track by $index">
+                    <td class="{{bodyStyle}}" ng-repeat="data in obj track by $index">{{CheckIfNumber($index, data)}}</td>
+                    <td class="text-center" ng-show="showActions">
+                        <a ng-click="deleteRow($index)">
+                            <small>
+                                <span class="label label-danger"><i class="fa fa-remove"></i>&nbsp;Delete</span>
+                            </small>
+                        </a>
+                    </td>
+                </tr>
+            </tbody>
+            <tbody ng-show="!showTable">
+                <tr>
+                    <td class="dynamic-dataTable-empty" colspan="{{numOfColumns}}" valign="top">No data available in table</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</div>

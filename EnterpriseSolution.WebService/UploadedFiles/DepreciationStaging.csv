@@ -1,0 +1,10 @@
+AssetCategory,DepreciationMethod,DepreciationType,DepreciationValue
+Land,Straight Line,Rate,10
+Buildings,Straight Line,Rate,10
+Furniture & Fixtures,Straight Line,Rate,23
+Interior Decoration,Straight Line,Rate,40
+Office Equipment,Straight Line,Rate,10
+Computer Equipment,Straight Line,Rate,20
+Computer Software,Straight Line,Rate,10
+Motor Vehicle,Straight Line,Rate,30
+Capital Machineries,Straight Line,Rate,10

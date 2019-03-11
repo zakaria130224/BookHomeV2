@@ -1,0 +1,240 @@
+﻿<form class="form-horizontal">
+
+    <fieldset>
+        @*<legend>Disabled Form Elements</legend>*@
+        <div class="form-group col-sm-12 col-md-6 col-lg-6">
+            <label class="col-md-4 control-label">Asset Reference</label>
+            <div class="col-md-8">
+                <input class="form-control" disabled="disabled" placeholder="00000FXERAOA" type="text">
+            </div>
+        </div>
+
+        <div class="form-group col-sm-12 col-md-6 col-lg-6">
+            <label class="col-md-4 control-label">Asset Description</label>
+            <div class="col-md-8">
+                <input class="form-control" disabled="disabled" placeholder="Excutive Table " type="text">
+            </div>
+        </div>
+    </fieldset>
+
+    <fieldset>
+        <article class="col-sm-12 col-md-12 col-lg-12">
+            <!-- Widget ID (each widget will need unique ID)-->
+            <div class="jarviswidget" id="wid-id-2" data-widget-colorbutton="false" data-widget-editbutton="false">
+
+                
+
+                <!-- widget div-->
+                <div>
+
+                    <!-- widget edit box -->
+                    <div class="jarviswidget-editbox">
+                        <!-- This area used as dropdown edit box -->
+
+                    </div>
+                    <!-- end widget edit box -->
+                    <!-- widget content -->
+                    <div class="widget-body fuelux">
+                        <div class="widget-body-toolbar">
+                            <div class="row">
+                                <div class="col-sm-6">
+                                    <!-- Button trigger modal -->
+                                    <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#addlinkageDetails">
+                                        <i class="fa fa-plus"> &nbsp; Add Linkage Details </i>
+                                    </button>
+                                </div>
+                                <!-- Trigger the modal with a button -->
+                            </div>
+                        </div>
+                        <table datatable="ng" id="dt_basic" class="table table-striped table-bordered table-hover" width="100%">
+                            <thead>
+                            <tr>
+                                <th>Expense Processing</th>
+                                <th>Contract Refference</th>
+                                <th>Vendor Code</th>
+                                <th>Contract Amount</th>
+                                <th>Linked Amount</th>
+                                <th>Actions</th>
+
+                            </tr>
+                            </thead>
+                            <tbody>
+                            <tr ng-repeat="linkedDetails in linkedDetailsList">
+                                <td>{{linkedDetails.ExpenseProcessing}}</td>
+                                <td>{{linkedDetails.ContractRefference}}</td>
+                                <td>{{linkedDetails.VendorCode}}</td>
+                                <td>{{linkedDetails.ContractAmount}}</td>
+                                <td>{{linkedDetails.LinkedAmount}}</td>
+                                <td>
+                                    <a data-toggle="modal" data-target="#editlinkageDetails">
+                                        <i class="fa fa-pencil-square"></i>&nbsp;Edit
+                                    </a>
+                                    <a><i class="fa fa-minus-square"></i>&nbsp;Delete</a>
+                                </td>
+                            </tr>
+                            </tbody>
+                        </table>
+
+                        <div class="wizard col-md-12 col-sm-12 col-lg-12 pull-right">
+                            <ul class="steps">
+                                <li data-target="#step1">
+                                    <span class="badge ">1</span>Asset Capture<span class="chevron"></span>
+                                </li>
+                                <li data-target="#step2">
+                                    <span class="badge ">2</span>Events<span class="chevron"></span>
+                                </li>
+                                <li data-target="#step3" class="active">
+                                    <span class="badge">3</span>Linkage Details<span class="chevron"></span>
+                                </li>
+                                <li data-target="#step4">
+                                    <span class="badge">4</span>Step 4<span class="chevron"></span>
+                                </li>
+                                <li data-target="#step5">
+                                    <span class="badge">5</span>Step 5<span class="chevron"></span>
+                                </li>
+                            </ul>
+                            <div class="actions">
+                                <button type="button" class="btn btn-sm btn-primary btn-prev">
+                                    <i class="fa fa-arrow-left"></i>Prev
+                                </button>
+                                <button type="button" class="btn btn-sm btn-success btn-next" data-last="Finish">
+                                    Next<i class="fa fa-arrow-right"></i>
+                                </button>
+                            </div>
+                        </div>
+
+                        <div class="form-group col-sm-12 col-md-12 col-lg-12 pull-right">
+                            <label class="col-md-4 control-label">Total Linked Amount</label>
+                            <div class="col-md-8">
+                                <input class="form-control" disabled="disabled" placeholder="10000tk" type="text">
+                            </div>
+                        </div>
+
+                       
+                        
+                     </div>
+                    </div>
+                    <!-- end widget content -->
+
+                </div>
+                <!-- end widget div -->
+            <!-- end widget -->
+
+        </article>
+        <!-- WIDGET END -->
+    </fieldset>
+
+</form>
+
+
+<div class="modal fade" id="addlinkageDetails" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                <h4 class="modal-title" id="myModalLabel">Add linkage Details</h4>
+            </div>
+            <div class="modal-body">
+                <div>
+                    <!-- widget edit box -->
+                    <div class="jarviswidget-editbox">
+                        <!-- This area used as dropdown edit box -->
+                    </div>
+                    <!-- end widget edit box -->
+                    <!-- widget content -->
+                    <div class="widget-body">
+                        <form class="form-horizontal">
+                            <fieldset>
+                                <div class="form-group">
+                                    <label class="col-md-3 control-label">Expense Processing</label>
+                                    <div class="col-md-9">
+                                        <input class="form-control" placeholder="Expense Processing" type="text">
+                                    </div>
+                                </div>
+
+                                <div class="form-group">
+                                    <label class="col-md-3 control-label">Contract Amount</label>
+                                    <div class="col-md-9">
+                                        <input class="form-control" placeholder="Contract Amount" type="text">
+                                    </div>
+                                </div>
+
+                                <div class="form-group">
+                                    <label class="col-md-3 control-label">Linked Amount</label>
+                                    <div class="col-md-9">
+                                        <input class="form-control" placeholder="Linked Amount" type="text">
+                                    </div>
+                                </div>
+
+
+                            </fieldset>
+                        </form>
+                    </div>
+                    <!-- end widget content -->
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                <button type="button" class="btn btn-primary">Save changes</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade" id="editlinkageDetails" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                <h4 class="modal-title" id="myModalLabel">Update Linkage Details</h4>
+            </div>
+
+            <div class="modal-body">
+                <div>
+                    <!-- widget edit box -->
+                    <div class="jarviswidget-editbox">
+                        <!-- This area used as dropdown edit box -->
+                    </div>
+                    <!-- end widget edit box -->
+                    <!-- widget content -->
+                    <div class="widget-body">
+                        <form class="form-horizontal">
+                            <fieldset>
+                                <div class="form-group">
+                                    <label class="col-md-3 control-label">Expense Processing</label>
+                                    <div class="col-md-9">
+                                        <input class="form-control" placeholder="Expense Processing" type="text">
+                                    </div>
+                                </div>
+
+                                <div class="form-group">
+                                    <label class="col-md-3 control-label">Contract Amount</label>
+                                    <div class="col-md-9">
+                                        <input class="form-control" placeholder="Contract Amount" type="text">
+                                    </div>
+                                </div>
+
+                                <div class="form-group">
+                                    <label class="col-md-3 control-label">Linked Amount</label>
+                                    <div class="col-md-9">
+                                        <input class="form-control" placeholder="Linked Amount" type="text">
+                                    </div>
+                                </div>
+
+
+                            </fieldset>
+                        </form>
+                    </div>
+                    <!-- end widget content -->
+                </div>
+            </div>
+
+            <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                <button type="button" class="btn btn-primary">Save changes</button>
+            </div>
+
+        </div>
+    </div>
+</div>

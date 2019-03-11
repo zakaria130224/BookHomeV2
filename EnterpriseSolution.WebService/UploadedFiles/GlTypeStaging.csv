@@ -1,0 +1,38 @@
+Name,Code,Description,IsActive
+WPL,120012501,Work In Progress Land,1
+WPB,120012503,Work In Progress_Building,1
+WPFF,120012505,Work-in-Progress Furniture & Fixture,1
+WPID,120012507,Work In Progress_Interior Decoration,1
+WPOE,120012509,Work In Progress_Office Equipment,1
+WPCE,120012511,Work In Progress_Computer Equipment,1
+WPCS,120012513,Work In Progress_Computer Software,1
+WPMV,120012515,Work In Progress_ Motor Vehicle,1
+WPPM,120012517,Work In Progress_Plant & Machineries,1
+L,120010101,Land,1
+B,120010102,Building,1
+FF,120010103,Furniture & Fixture,1
+ID,120010104,Interior Decoration,1
+OE,120010105,Office Equipment,1
+CE,120010106,Computer Equipment,1
+CS,120010107,Computer Software,1
+MV,120010108,Motor Vehicle,1
+PM,120010109,Plant & Machineries,1
+DB,405400101,Depreciation_Building,1
+DFF,405400103,Depreciation_Furniture/Fixture,1
+DID,405400105,Depreciation_Interior Decoration,1
+DOE,405400107,Depreciation_Office Equipment,1
+DCE,405400109,Depreciation_Computer Equipment,1
+DCS,405400111,Depreciation_Computer Software,1
+DV,405400113,Depreciation_Vehicles,1
+DPM,405400114,Depreciation_ Plant & Machineries,1
+ADB,215650101,Accumulated Depreciation_Building,1
+ADFF,215650103,Accumulated Depreciation_Furniture and Fixture,1
+ADID,215650105,Accumulated Depreciation_Interior Decoration,1
+ADOE,215650107,Accumulated Depreciation_Office Equipment,1
+ADCE,215650109,Accumulated Depreciation_Computer Equipment,1
+AACS,215650111,Accumulated Amortization_Computer Software,1
+ADMV,215650113,Accumulated Depreciation_Motor Vehicle,1
+ADPM,215650114,Accumulated Depreciation_Plant & Machineries,1
+LSOA,405451903,Loss on Sale of Other Assets,1
+WA,405452101,Write off  Assets,1
+RIFA,301020101,Retail Income gain on sale of fixed asset,1

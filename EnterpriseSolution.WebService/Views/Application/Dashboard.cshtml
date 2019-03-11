@@ -1,0 +1,394 @@
+﻿<!--Top view-->
+<div class="row">
+    <div class="col-xs-12 col-sm-7 col-md-7 col-lg-4">
+        <h1 class="page-title txt-color-blueDark"><i class="fa-fw fa fa-home"></i> Dashboard</h1>
+    </div>
+</div>
+
+<div class="row">
+    <!--Fixed Asset Section-->
+    <article class="col-sm-12 col-md-12 col-lg-12 sortable-grid ui-sortable">
+        <!-- Widget ID (each widget will need unique ID)-->
+        <div class="jarviswidget jarviswidget-sortable" id="wid-id-0" data-widget-colorbutton="false" data-widget-editbutton="false" data-widget-custombutton="false" role="widget">
+            <header role="heading" class="ui-sortable-handle">
+                <div class="jarviswidget-ctrls" role="menu"><a href="javascript:void(0);" class="button-icon jarviswidget-fullscreen-btn" rel="tooltip" title="" data-placement="bottom" data-original-title="Fullscreen"><i class="fa fa-expand "></i></a></div>
+                <span class="widget-icon"> <i class="fa fa-tree"></i> </span>
+                <h2>Fixed Asset</h2>
+            </header>
+
+            <!-- widget div-->
+            <div class="content">
+                <!-- widget content -->
+                <div class="widget-body">
+                    <!--Table-->
+                    <div class="row">
+                        <div class="col-md-9 col-sm-6">
+                            <table datatable="ng" dt-options="dtOptions" id="dt_Asset" style="display: table; width: 100%;" class="responsive-table table table-responsive table-striped table-bordered table-hover width-100">
+                                <thead class="width-100">
+                                    <tr>
+                                        <th>Ref. No.</th>
+                                        @*<th>Work Order No.</th>*@
+                                        <th class="dt-width-200">Category</th>
+                                        <th>Capture Date</th>
+                                        <th class="dt-width-150">Department</th>
+                                        <th>Asset Cost</th>
+                                        <th class="dt-width-100">Status</th>
+                                    </tr>
+                                </thead>
+                                <tbody class="width-100">
+                                    <tr ng-repeat="data in dashboardDataModel.CurrentFixedAssets">
+                                        <td>{{data.ContractReference}}</td>
+                                        @*<td>{{data.WorkOrderNo}}</td>*@
+                                        <td>{{data.CategoryName}}</td>
+                                        <td class="text-center">{{data.PurchaseDate}}</td>
+                                        <td>{{data.DepartmentName}}</td>
+                                        <td class="text-right">{{data.AssestCost| number}}</td>
+                                        <td class="text-center">{{data.StatusName}}</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+
+                        <!--Fixed Asset Card Section-->
+                        <div class="col-md-3 col-sm-6">
+                            <div class="iconic-w-wrap number-rotate">
+                                <span class="stat-w-title">Fixed Asset</span>
+                                <a href="/Application/Insight/assets" class="ico-cirlce-widget w_bg_cyan">
+                                    <span><i class="fa fa-list-alt"></i></span>
+                                </a>
+                                <div class="w-meta-info">
+                                    <span class="w-meta-value number-animate" data-value="330" data-animation-duration="1500">{{dashboardDataModel.TotalNumOfAsset}}</span>
+                                    <span class="w-meta-title">Authorized Assets</span>
+                                    <span class="w-previos-stat">Total Amount : {{dashboardDataModel.TotalAssetValue | number}}</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+                <!-- end widget content -->
+            </div>
+            <!-- end widget div -->
+        </div>
+        <!-- end widget -->
+    </article>
+
+    <!--Fixed Asset Sale Section-->
+    <article class="col-sm-12 col-md-12 col-lg-12 sortable-grid ui-sortable">
+        <!-- Widget ID (each widget will need unique ID)-->
+        <div class="jarviswidget jarviswidget-sortable" id="wid-id-0" data-widget-colorbutton="false" data-widget-editbutton="false" data-widget-custombutton="false" role="widget">
+            <header role="heading" class="ui-sortable-handle">
+                <div class="jarviswidget-ctrls" role="menu"><a href="javascript:void(0);" class="button-icon jarviswidget-fullscreen-btn" rel="tooltip" title="" data-placement="bottom" data-original-title="Fullscreen"><i class="fa fa-expand "></i></a></div>
+                <span class="widget-icon"> <i class="fa fa-tree"></i> </span>
+                <h2>Asset Sale</h2>
+            </header>
+
+            <!-- widget div-->
+            <div class="content">
+                <!-- widget content -->
+                <div class="widget-body">
+                    <!--Table-->
+                    <div class="row">
+                        <div class="col-md-9 col-sm-6">
+                            <table datatable="ng" dt-options="dtOptions" style="display: table; width: 100%;" id="dt_ Asset_Sale" class="responsive-table table table-responsive table-striped table-bordered table-hover">
+                                <thead>
+                                    <tr>
+                                        <th class="dt-width-200">Ref. No.</th>
+                                        <th class="dt-width-200">Asset Category</th>
+                                        <th class="dt-width-100">Sale Date</th>
+                                        <th class="dt-width-100">Asset Value</th>
+                                        <th class="dt-width-100">Sale Value</th>
+                                        <th class="dt-width-150">Status</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr ng-repeat="data in dashboardDataModel.CurrentSaleAssets">
+                                        <td>{{data.ReferenceNumber}}</td>
+                                        <td>{{data.CategoryName}}</td>
+                                        <td class="text-center">{{data.SaleDate}}</td>
+                                        <td class="text-right">{{data.AssetValue | number}}</td>
+                                        <td class="text-right">{{data.SaleValue | number}}</td>
+                                        <td class="text-center">{{data.StatusName}}</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+
+                        <!--Fixed Asset Sale Card Section-->
+                        <div class="col-md-3 col-sm-6">
+                            <div class="iconic-w-wrap iconic-w-wrap">
+                                <span class="stat-w-title">Fixed Asset Sale</span>
+                                <a href="/Application/Insight/assetsales" class="ico-cirlce-widget w_bg_grey">
+                                    <span><i class="fa fa-shopping-cart"></i></span>
+                                </a>
+                                <div class="w-meta-info">
+                                    <span class="w-meta-value number-animate" data-value="127" data-animation-duration="1500">{{dashboardDataModel.TotalNumOfAssetSale}}</span>
+                                    <span class="w-meta-title">Authorized Sold Assets</span>
+                                    <span class="w-previos-stat">Total Amount : {{dashboardDataModel.TotalAssetSaleValue | number}}</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- end widget content -->
+            </div>
+            <!-- end widget div -->
+        </div>
+        <!-- end widget -->
+    </article>
+
+    <!--Fixed Asset Write Off Section-->
+    <article class="col-sm-12 col-md-12 col-lg-12 sortable-grid ui-sortable">
+
+        <!-- Widget ID (each widget will need unique ID)-->
+        <div class="jarviswidget jarviswidget-sortable" id="wid-id-0" data-widget-colorbutton="false" data-widget-editbutton="false" data-widget-custombutton="false" role="widget">
+            <header role="heading" class="ui-sortable-handle">
+                <div class="jarviswidget-ctrls" role="menu"><a href="javascript:void(0);" class="button-icon jarviswidget-fullscreen-btn" rel="tooltip" title="" data-placement="bottom" data-original-title="Fullscreen"><i class="fa fa-expand "></i></a></div>
+                <span class="widget-icon"> <i class="fa fa-tree"></i> </span>
+                <h2>Asset Write Off</h2>
+            </header>
+
+            <!-- widget div-->
+            <div class="content">
+                <!-- widget content -->
+                <div class="widget-body">
+
+                    <!--Table-->
+                    <div class="row">
+                        <div class="col-md-9 col-sm-6">
+                            <table datatable="ng" dt-options="dtOptions" id="dt_basic_1231313" class="responsive-table table table-responsive table-striped table-bordered table-hover">
+                                <thead>
+                                    <tr>
+                                        <th class="dt-width-200">Ref. No.</th>
+                                        <th class="dt-width-300">Asset Category</th>
+                                        <th class="dt-width-200">Write Off Date</th>
+                                        <th class="dt-width-200">Status</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr ng-repeat="data in dashboardDataModel.CurrentWriteOffAssets">
+                                        <td>{{data.AssetRefNo}}</td>
+                                        <td>{{data.CategoryName}}</td>
+                                        <td class="text-center">{{data.CreatedOn}}</td>
+                                        <td class="text-center">{{data.WriteOffStatus}}</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+
+                        <!--Fixed Asset Sale Card Section-->
+                        <div class="col-md-3 col-sm-6">
+                            <div class="iconic-w-wrap iconic-w-wrap">
+                                <span class="stat-w-title">Fixed Asset Write Off</span>
+                                <a href="/Application/Insight/assetWriteOff" class="ico-cirlce-widget w_bg_blue_grey">
+                                    <span><i class="fa fa-bitcoin"></i></span>
+                                </a>
+                                <div class="w-meta-info w-currency">
+                                    <span class="w-meta-value number-animate" data-value="6127" data-animation-duration="1500">{{dashboardDataModel.TotalNumOfAssetWriteOff}}</span>
+                                    <span class="w-meta-title">Authorized write off assets</span>
+                                    <span class="w-previos-stat">Total amount : {{dashboardDataModel.TotalAssetValueForWO}}</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- end widget content -->
+            </div>
+            <!-- end widget div -->
+        </div>
+        <!-- end widget -->
+    </article>
+
+    <!--Supplier Payment Section-->
+    <article class="col-sm-12 col-md-12 col-lg-12 sortable-grid ui-sortable">
+
+        <!-- Widget ID (each widget will need unique ID)-->
+        <div class="jarviswidget jarviswidget-sortable" id="wid-id-0" data-widget-colorbutton="false" data-widget-editbutton="false" data-widget-custombutton="false" role="widget">
+            <header role="heading" class="ui-sortable-handle">
+                <div class="jarviswidget-ctrls" role="menu"><a href="javascript:void(0);" class="button-icon jarviswidget-fullscreen-btn" rel="tooltip" title="" data-placement="bottom" data-original-title="Fullscreen"><i class="fa fa-expand "></i></a></div>
+                <span class="widget-icon"> <i class="fa fa-tree"></i> </span>
+                <h2>Supplier Payment</h2>
+            </header>
+
+            <!-- widget div-->
+            <div class="content">
+                <!-- widget content -->
+                <div class="widget-body">
+                    <!--Table-->
+                    <div class="row">
+                        <div class="col-md-9 col-sm-6">
+                            <table datatable="ng" dt-options="dtOptions" id="dt_basic_1231313" class="responsive-table table table-responsive table-striped table-bordered table-hover">
+                                <thead>
+                                    <tr>
+                                        <th class="dt-width-200">Ref. No.</th>
+                                        <th class="dt-width-300">Pay To</th>
+                                        <th class="dt-width-100">Payment Date</th>
+                                        <th class="dt-width-100">Amount</th>
+                                        <th class="dt-width-200">Status</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr ng-repeat="data in dashboardDataModel.CurrentSupplierPayments">
+                                        <td>{{data.ReferenceNumber}}</td>
+                                        <td>{{data.SupplierName}}</td>
+                                        <td class="text-center">{{data.PaymentDate}}</td>
+                                        <td class="text-right">{{data.Amount | number}}</td>
+                                        <td class="text-center">{{data.StatusName}}</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+
+                        <!--Fixed Asset Sale Card Section-->
+                        <div class="col-md-3 col-sm-6">
+                            <div class="iconic-w-wrap iconic-w-wrap">
+                                <span class="stat-w-title">Supplier Payment</span>
+                                <a href="/Application/Insight/voucher" class="ico-cirlce-widget w_bg_green">
+                                    <span><i class="fa fa-cc-paypal"></i></span>
+                                </a>
+                                <div class="w-meta-info">
+                                    <span class="w-meta-value number-animate" data-value="20000" data-animation-duration="1500">{{dashboardDataModel.TotalNumOfSupplierPayment}}</span>
+                                    <span class="w-meta-title">Authorized Supplier Payments</span>
+                                    <span class="w-previos-stat">Total amount : {{dashboardDataModel.TotalSupplierPaymentAmount | number}}</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- end widget content -->
+            </div>
+            <!-- end widget div -->
+        </div>
+        <!-- end widget -->
+    </article>
+
+    <!--Sales Section-->
+    <article class="col-sm-12 col-md-12 col-lg-12 sortable-grid ui-sortable">
+
+        <!-- Widget ID (each widget will need unique ID)-->
+        <div class="jarviswidget jarviswidget-sortable" id="wid-id-0" data-widget-colorbutton="false" data-widget-editbutton="false" data-widget-custombutton="false" role="widget">
+            <header role="heading" class="ui-sortable-handle">
+                <div class="jarviswidget-ctrls" role="menu"><a href="javascript:void(0);" class="button-icon jarviswidget-fullscreen-btn" rel="tooltip" title="" data-placement="bottom" data-original-title="Fullscreen"><i class="fa fa-expand "></i></a></div>
+                <span class="widget-icon"> <i class="fa fa-tree"></i> </span>
+                <h2>Sales</h2>
+            </header>
+
+            <!-- widget div-->
+            <div class="content">
+                <!-- widget content -->
+                <div class="widget-body">
+                    <!--Table-->
+                    <div class="row">
+                        <div class="col-md-9 col-sm-6">
+                            <table datatable="ng" dt-options="dtOptions" id="dt_basic_1231313" class="responsive-table table table-responsive table-striped table-bordered table-hover">
+                                <thead>
+                                    <tr>
+                                        <th class="dt-width-200">Ref. No.</th>
+                                        <th class="dt-width-200">Lot. No.</th>
+                                        <th class="dt-width-200">Date</th>
+                                        <th class="dt-width-200">Amount</th>
+                                        <th class="dt-width-200">Status</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr ng-repeat="data in dashboardDataModel.CurrentSales">
+                                        <td>{{data.ReferenceNumber}}</td>
+                                        <td>{{data.LotNo}}</td>
+                                        <td class="text-center">{{data.Date}}</td>
+                                        <td class="text-right">{{data.Amount | number}}</td>
+                                        <td class="text-center">{{data.StatusName}}</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+
+                        <!--Fixed Asset Sale Card Section-->
+                        <div class="col-md-3 col-sm-6">
+                            <div class="iconic-w-wrap iconic-w-wrap">
+                                <span class="stat-w-title">Sales</span>
+                                <a href="/Application/Insight/sales" class="ico-cirlce-widget w_bg_green">
+                                    <span><i class="fa fa-cart-plus"></i></span>
+                                </a>
+                                <div class="w-meta-info">
+                                    <span class="w-meta-value number-animate" data-value="20000" data-animation-duration="1500">{{dashboardDataModel.TotalNumOfSales}}</span>
+                                    <span class="w-meta-title">Authorized Sales</span>
+                                    <span class="w-previos-stat">Total amount : {{dashboardDataModel.TotalSalesValue | number}}</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- end widget content -->
+            </div>
+            <!-- end widget div -->
+        </div>
+        <!-- end widget -->
+    </article>
+
+    <!--Work Order Section-->
+    <article class="col-sm-12 col-md-12 col-lg-12 sortable-grid ui-sortable">
+
+        <!-- Widget ID (each widget will need unique ID)-->
+        <div class="jarviswidget jarviswidget-sortable" id="wid-id-0" data-widget-colorbutton="false" data-widget-editbutton="false" data-widget-custombutton="false" role="widget">
+            <header role="heading" class="ui-sortable-handle">
+                <div class="jarviswidget-ctrls" role="menu"><a href="javascript:void(0);" class="button-icon jarviswidget-fullscreen-btn" rel="tooltip" title="" data-placement="bottom" data-original-title="Fullscreen"><i class="fa fa-expand "></i></a></div>
+                <span class="widget-icon"> <i class="fa fa-tree"></i> </span>
+                <h2>Work Order</h2>
+            </header>
+
+            <!-- widget div-->
+            <div class="content">
+                <!-- widget content -->
+                <div class="widget-body">
+                    <!--Table-->
+                    <div class="row">
+                        <div class="col-md-9 col-sm-6">
+                            <table datatable="ng" dt-options="dtOptions" id="dt_basic_1231313" class="responsive-table table table-responsive table-striped table-bordered table-hover">
+                                <thead>
+                                    <tr>
+                                        <th class="dt-width-200">WorkOrderNo</th>
+                                        <th class="dt-width-200">Supplier Name</th>
+                                        <th class="dt-width-200">Order Date</th>
+                                        <th class="dt-width-200">Amount</th>
+                                        <th class="dt-width-200">Status</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr ng-repeat="data in dashboardDataModel.CurrentWorkOrders">
+                                        <td>{{data.WorkOrderNo}}</td>
+                                        <td>{{data.SupplierName}}</td>
+                                        <td class="text-center">{{data.CreatedDate}}</td>
+                                        <td class="text-right">{{data.WorkOrderValue | number}}</td>
+                                        <td class="text-center">{{data.StatusName}}</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+
+                        <!--Fixed Asset Sale Card Section-->
+                        <div class="col-md-3 col-sm-6">
+                            <div class="iconic-w-wrap iconic-w-wrap">
+                                <span class="stat-w-title">Work Order</span>
+                                <a href="/Application/Insight/sales" class="ico-cirlce-widget w_bg_green">
+                                    <span><i class="fa fa-first-order"></i></span>
+                                </a>
+                                <div class="w-meta-info">
+                                    <span class="w-meta-value number-animate" data-value="20000" data-animation-duration="1500">{{dashboardDataModel.TotalNumOfWorkOrders}}</span>
+                                    <span class="w-meta-title">Authorized Work Orders</span>
+                                    <span class="w-previos-stat">Total amount : {{dashboardDataModel.TotalWorkOrderValue | number}}</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- end widget content -->
+            </div>
+            <!-- end widget div -->
+        </div>
+        <!-- end widget -->
+    </article>
+
+</div>
+
+
+

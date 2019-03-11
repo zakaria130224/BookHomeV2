@@ -1,0 +1,75 @@
+﻿@model IEnumerable<IplanSaasWebApp.Models.Navbar>
+<nav>
+    <ul>
+        @foreach (var item in Model)
+        {
+
+            if (item.isParent == false && item.parentId == 0)
+            {
+                var nameOption = item.nameOption;
+                nameOption = nameOption.Replace(" ", string.Empty);
+                <li><a ng-click="link('@item.action','@nameOption')" id="@nameOption"><i class="@item.imageClass"></i><span> @item.nameOption</span></a></li>
+            }
+            else if (item.isParent == true && item.parentId == 0)
+            {
+                var nameOption = item.nameOption;
+                nameOption = nameOption.Replace(" ", string.Empty);
+
+                <li class="">
+                    <a href="#" title="@item.nameOption">
+                        <i class="@item.imageClass"></i> <span class="menu-item-parent">@item.nameOption</span>
+                    </a>
+                    <ul>
+                        @foreach (var child in Model.Where(p => p.parentId == item.Id))
+                        {
+                            if (child.isParent == true)
+                            {
+                                nameOption = child.nameOption;
+                                nameOption = nameOption.Replace(" ", string.Empty);
+                                <li class="" ng-mouseover="secondLevelHover('@nameOption')" ng-mouseleave="secondLevelHoversecondLevelMouseLeave('@nameOption')">
+                                    <a id="@nameOption" title="@nameOption">
+                                        <span class="menu-item-parent">@child.nameOption</span>
+                                    </a>
+                                    <ul>
+
+                                        @foreach (var subChild in Model.Where(p => p.parentId == child.Id))
+                                        {
+                                            if (subChild.controller == null)
+                                            {
+                                                <li><a href="#@subChild.action">@subChild.nameOption</a></li>
+                                            }
+                                            else
+                                            {
+                                                nameOption = subChild.nameOption;
+                                                nameOption = nameOption.Replace(" ", string.Empty);
+                                                <li>
+                                                    <a href="#@subChild.action" data-link="@subChild.action" id="@nameOption">
+                                                        <i class="@subChild.imageClass"></i> <span class="menu-item-parent">@subChild.nameOption</span>
+                                                    </a>
+                                                </li>
+                                            }
+                                        }
+                                    </ul>
+                                </li>
+                            }
+                            else
+                            {
+                                nameOption = child.nameOption;
+                                nameOption = nameOption.Replace(" ", string.Empty);
+                                <li class="">
+                                    <a ng-click="link('@child.action','@nameOption')" ng-model="@nameOption" data-link="@child.action" id="@nameOption">
+                                        <span class="menu-item-parent">@child.nameOption</span>
+                                    </a>
+                                </li>
+                            }
+                        }
+
+                    </ul>
+                </li>
+
+
+            }
+
+        }
+    </ul>
+</nav>

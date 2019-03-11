@@ -1,0 +1,92 @@
+﻿<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+    <h1 class="page-title txt-color-blueDark">
+        <i class="fa-fw fa fa-home"></i> Fixed Asset
+        <span><i class="fa fa-angle-right"></i>&nbsp;Asset Capture</span>
+       
+    </h1>
+</div>
+<!-- NEW WIDGET START -->
+<article class="col-sm-12 col-md-12 col-lg-12">
+    <!-- Widget ID (each widget will need unique ID)-->
+    <div class="jarviswidget" id="wid-id-2" data-widget-colorbutton="false" data-widget-editbutton="false">
+
+     
+
+        <!-- widget div-->
+        <div>
+
+            <!-- widget edit box -->
+            <div class="jarviswidget-editbox">
+                <!-- This area used as dropdown edit box -->
+
+            </div>
+            <!-- end widget edit box -->
+            <!-- widget content -->
+            <div class="widget-body">
+                <div class="widget-body-toolbar">
+                    <div class="row">
+                        <div class="col-sm-6">
+                            <!-- Button trigger modal -->
+                            <a type="button" class="btn btn-primary"  href="#/assets/assetcapture">
+                                <i class="fa fa-plus"> &nbsp; Asset Capture </i>
+                            </a>
+                        </div>
+                        <!-- Trigger the modal with a button -->
+                    </div>
+                </div>
+
+                <table datatable="ng" id="dt_basic" class="responsive-table table table-responsive table-striped table-bordered table-hover" width="100%">
+                    <thead>
+                        <tr>
+                            <th>ProductCode</th>
+                            <th>ProductDescription</th>
+                            <th>ContractReference</th>
+                            <th>UserReference</th>
+                            <th>Category</th>
+                            <th>Location</th>
+                            <th>Currency</th>
+                            <th>AssestCost</th>
+                            <th>Status</th>
+                            <th>BookDate</th>
+                            <th>AcquisitionDate</th>
+                            <th>ResidualValue</th>
+                            <th>OriginalReference</th>
+                            <th>CapitalizationDate</th>
+                            <th>EffectiveDepriciationDate</th>
+                            <th>UsefulLife</th>
+                            <th>UsefulSuspensionDateLife</th>
+                            <th>Manage</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr ng-repeat="asset in AssetsList">
+                            <td>{{asset.ProductCode}}</td>
+                            <td>{{asset.ProductDescription}}</td>
+                            <td>{{asset.ContractReference}}</td>
+                            <td>{{asset.UserReference}}</td>
+                            <td>{{asset.CategoryId}}</td>
+                            <td>{{asset.LocationId}}</td>
+                            <td>{{asset.CurrencyId}}</td>
+                            <td>{{asset.AssestCost}}</td>
+                            <td>{{asset.Status}}</td>
+                            <td>{{asset.BookDate}}</td>
+                            <td>{{asset.AcquisitionDate}}</td>
+                            <td>{{asset.ResidualValue}}</td>
+                            <td>{{asset.OriginalReference}}</td>
+                            <td>{{asset.CapitalizationDate}}</td>
+                         
+                            <td>{{asset.EffectiveDepriciationDate}}</td>
+                            <td>{{asset.UsefulLife}}</td>
+                            <td>{{asset.SuspensionDate}}</td>
+                            <td><a href="#/assets/manageAssets" class="btn btn-success">Manage Assets</a></td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+            <!-- end widget content -->
+
+        </div>
+        <!-- end widget div -->
+    </div>
+</article>
+<!-- WIDGET END -->

@@ -1,0 +1,99 @@
+﻿<!--Payment Journal Box starts-->
+<section id="journalBox">
+    <div class="row">
+        <div class="col-md-12">
+            <!--Company Details-->
+            <div class="row text-center">
+                <h1 class="text-center font-400">KS Apparels LTD</h1>
+                <h2 class="text-center font-200">Gazipur</h2>
+                <h2 class="text-center font-200">{{journalType}} Journal</h2>
+            </div>
+
+            <fieldset>
+                <legend></legend>
+            </fieldset>
+            <!--Reference number and present date-->
+            <div class="row">
+                <div class="col-md-6 text-left">
+                    <span class=""><b>{{referenceNumberLabel}}:</b>&nbsp;{{referenceNumber}}</span>
+                </div>
+                <div class="col-md-6 text-right">
+                    <span class=""><b>Date:</b>&nbsp;{{presentDate | date:'dd/MM/yyyy'}}</span>
+                </div>
+            </div>
+
+            <fieldset>
+                <legend></legend>
+            </fieldset>
+            <!--Journal Table-->
+            <div class="row">
+                <div class="col-md-12">
+                    <table class="table table-striped table-bordered" id="jounal">
+                        <thead>
+                            <tr>
+                                <th>SL No</th>
+                                <th>GL Name</th>
+                                <th class="text-center">Gl Code</th>
+                                <th class="text-center">Debit</th>
+                                <th class="text-center">Credit</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr ng-repeat="record in paymentJournalRecords">
+                                <td>{{$index + 1}}</td>
+                                <td>{{record.GlName}}</td>
+                                <td class="text-center">{{record.GlCode}}</td>
+                                <td class="text-right">{{record.Debit | number}}</td>
+                                <td class="text-right">{{record.Credit | number}}</td>
+                            </tr>
+                            <tr class="table-last-row-highlight">
+                                <td class="text-right" colspan="3">{{journalTotal[0].GlName}}</td>
+                                <td class="text-right">{{journalTotal[0].Debit | number}}</td>
+                                <td class="text-right">{{journalTotal[0].Credit | number}}</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+
+            <!--Description-->
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="form-group">
+                        <label class="text-bold">Description:</label>
+                        <p>{{description}}</p>
+                    </div>
+                </div>
+            </div>
+
+            <!--Account In Words-->
+            <div class="row">
+                <div class="col-md-6 text-left">
+                    <span class=""><b>Account In Words:</b>&nbsp;&nbsp; {{accountInWords}}</span>
+                </div>
+            </div>
+
+            <fieldset>
+                <legend></legend>
+            </fieldset>
+            <!--Prepared By and Created By-->
+            <div class="row">
+                <div class="col-md-6 text-left">
+                    <span class=""><b>Prepared By:</b>&nbsp;&nbsp; {{maker}}</span>
+                </div>
+                <div class="col-md-6 text-right">
+                    <span class=""><b>Checked By:</b>&nbsp;&nbsp; {{checker}}</span>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!--Payment Journal Button Box ends-->
+<div class="form-actions">
+    <div class="row">
+        <div class="col-md-12">
+            <button class="btn btn-success pull-right margin-left" ng-click="Print('journalBox')"><i class="fa fa-print"></i>&nbsp;Print</button>
+            <button class="btn btn-success pull-right" ng-click="NotifyParent()"><i class="fa fa-check"></i>&nbsp;OK</button>
+        </div>
+    </div>
+</div>

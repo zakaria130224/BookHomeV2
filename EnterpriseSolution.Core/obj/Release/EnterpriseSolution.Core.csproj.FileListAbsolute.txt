@@ -1,0 +1,12 @@
+E:\Project Folders\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.Core\bin\Release\EnterpriseSolution.Core.dll
+E:\Project Folders\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.Core\bin\Release\EnterpriseSolution.Core.pdb
+E:\Project Folders\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.Core\obj\Release\EnterpriseSolution.Core.csproj.CoreCompileInputs.cache
+E:\Project Folders\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.Core\obj\Release\EnterpriseSolution.Core.dll
+E:\Project Folders\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.Core\obj\Release\EnterpriseSolution.Core.pdb
+E:\Project Folders\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.Core\obj\Release\EnterpriseSolution.Core.csprojResolveAssemblyReference.cache
+D:\Cheesecake ICT Current Working Repository\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.Core\bin\Release\EnterpriseSolution.Core.dll
+D:\Cheesecake ICT Current Working Repository\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.Core\bin\Release\EnterpriseSolution.Core.pdb
+D:\Cheesecake ICT Current Working Repository\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.Core\obj\Release\EnterpriseSolution.Core.csprojAssemblyReference.cache
+D:\Cheesecake ICT Current Working Repository\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.Core\obj\Release\EnterpriseSolution.Core.csproj.CoreCompileInputs.cache
+D:\Cheesecake ICT Current Working Repository\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.Core\obj\Release\EnterpriseSolution.Core.dll
+D:\Cheesecake ICT Current Working Repository\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.Core\obj\Release\EnterpriseSolution.Core.pdb

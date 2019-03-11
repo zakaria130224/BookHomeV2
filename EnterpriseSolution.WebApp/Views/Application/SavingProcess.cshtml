@@ -1,0 +1,53 @@
+﻿
+
+@{
+    Layout = null;
+}
+
+@*<div class="wizard" >
+    <ul class="steps">
+        <li data-target="#step1">
+            <span class="badge active">1</span>Asset Capture<span class="chevron"></span>
+        </li>
+        <li data-target="#step2" class="active">
+            <span class="badge ">2</span>Events<span class="chevron"></span>
+        </li>
+        <li data-target="#step3">
+            <span class="badge">3</span>Step 3<span class="chevron"></span>
+        </li>
+        <li data-target="#step4">
+            <span class="badge">4</span>Step 4<span class="chevron"></span>
+        </li>
+        <li data-target="#step5">
+            <span class="badge">5</span>Step 5<span class="chevron"></span>
+        </li>
+    </ul>
+    <div class="actions">
+        <button type="button" class="btn btn-sm btn-primary btn-prev">
+            <i class="fa fa-arrow-left"></i>Prev
+        </button>
+        <button type="button" class="btn btn-sm btn-success btn-next" data-last="Finish">
+            Next<i class="fa fa-arrow-right"></i>
+        </button>
+    </div>
+</div>*@
+
+
+
+
+<div class="wizard" >
+        <ul class="steps" >
+            <li id="step{{process.Id}}" ng-repeat="process in processList" class="{{process.Class}}">
+                <span class="badge">{{process.Id}}</span>{{process.Name}}<span class="chevron"></span>
+            </li>
+        </ul>
+
+        <div class="actions">
+            <button type="button" class="btn btn-sm btn-primary btn-prev" ng-click="Prev(processList[0].Prev)">
+                <i class="fa fa-arrow-left"></i>Prev
+            </button>
+            <button type="button" class="btn btn-sm btn-success btn-next" ng-click="Next(processList[0].Next)">
+                Next<i class="fa fa-arrow-right"></i>
+            </button>
+        </div>
+    </div>

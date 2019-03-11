@@ -1,0 +1,56 @@
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.Core\bin\Debug\EnterpriseSolution.Core.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.Core\bin\Debug\EnterpriseSolution.Core.pdb
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.Core\obj\Debug\EnterpriseSolution.Core.csprojResolveAssemblyReference.cache
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.Core\obj\Debug\EnterpriseSolution.Core.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.Core\obj\Debug\EnterpriseSolution.Core.pdb
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.Core\bin\Debug\EnterpriseSolution.Core.dll
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.Core\bin\Debug\EnterpriseSolution.Core.pdb
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.Core\obj\Debug\EnterpriseSolution.Core.dll
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.Core\obj\Debug\EnterpriseSolution.Core.pdb
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\trunk\EnterpriseSolution\EnterpriseSolution.Core\obj\Debug\EnterpriseSolution.Core.csproj.CoreCompileInputs.cache
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\trunk\EnterpriseSolution\EnterpriseSolution.Core\obj\Debug\EnterpriseSolution.Core.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\trunk\EnterpriseSolution\EnterpriseSolution.Core\obj\Debug\EnterpriseSolution.Core.pdb
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\trunk\EnterpriseSolution\EnterpriseSolution.Core\bin\Debug\EnterpriseSolution.Core.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\trunk\EnterpriseSolution\EnterpriseSolution.Core\bin\Debug\EnterpriseSolution.Core.pdb
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\trunk\EnterpriseSolution\EnterpriseSolution.Core\obj\Debug\EnterpriseSolution.Core.csprojResolveAssemblyReference.cache
+D:\Projects\trunk\EnterpriseSolution\EnterpriseSolution.Core\bin\Debug\EnterpriseSolution.Core.dll
+D:\Projects\trunk\EnterpriseSolution\EnterpriseSolution.Core\bin\Debug\EnterpriseSolution.Core.pdb
+D:\Projects\trunk\EnterpriseSolution\EnterpriseSolution.Core\obj\Debug\EnterpriseSolution.Core.csprojResolveAssemblyReference.cache
+D:\Projects\trunk\EnterpriseSolution\EnterpriseSolution.Core\obj\Debug\EnterpriseSolution.Core.csproj.CoreCompileInputs.cache
+D:\Projects\trunk\EnterpriseSolution\EnterpriseSolution.Core\obj\Debug\EnterpriseSolution.Core.dll
+D:\Projects\trunk\EnterpriseSolution\EnterpriseSolution.Core\obj\Debug\EnterpriseSolution.Core.pdb
+D:\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.Core\bin\Debug\EnterpriseSolution.Core.dll
+D:\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.Core\bin\Debug\EnterpriseSolution.Core.pdb
+D:\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.Core\obj\Debug\EnterpriseSolution.Core.csproj.CoreCompileInputs.cache
+D:\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.Core\obj\Debug\EnterpriseSolution.Core.dll
+D:\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.Core\obj\Debug\EnterpriseSolution.Core.pdb
+E:\Project Folders\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.Core\bin\Debug\EnterpriseSolution.Core.dll
+E:\Project Folders\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.Core\bin\Debug\EnterpriseSolution.Core.pdb
+E:\Project Folders\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.Core\obj\Debug\EnterpriseSolution.Core.csproj.CoreCompileInputs.cache
+E:\Project Folders\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.Core\obj\Debug\EnterpriseSolution.Core.dll
+E:\Project Folders\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.Core\obj\Debug\EnterpriseSolution.Core.pdb
+E:\Project Folders\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.Core\obj\Debug\EnterpriseSolution.Core.csprojResolveAssemblyReference.cache
+D:\Abbir\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.Core\bin\Debug\EnterpriseSolution.Core.dll
+D:\Abbir\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.Core\bin\Debug\EnterpriseSolution.Core.pdb
+D:\Abbir\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.Core\obj\Debug\EnterpriseSolution.Core.csproj.CoreCompileInputs.cache
+D:\Abbir\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.Core\obj\Debug\EnterpriseSolution.Core.dll
+D:\Abbir\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.Core\obj\Debug\EnterpriseSolution.Core.pdb
+D:\Abbir\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.Core\obj\Debug\EnterpriseSolution.Core.csprojAssemblyReference.cache
+D:\Cheesecake ICT Current Working Repository\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.Core\bin\Debug\EnterpriseSolution.Core.dll
+D:\Cheesecake ICT Current Working Repository\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.Core\bin\Debug\EnterpriseSolution.Core.pdb
+D:\Cheesecake ICT Current Working Repository\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.Core\obj\Debug\EnterpriseSolution.Core.csproj.CoreCompileInputs.cache
+D:\Cheesecake ICT Current Working Repository\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.Core\obj\Debug\EnterpriseSolution.Core.dll
+D:\Cheesecake ICT Current Working Repository\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.Core\obj\Debug\EnterpriseSolution.Core.pdb
+D:\Cheesecake ICT Current Working Repository\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.Core\obj\Debug\EnterpriseSolution.Core.csprojAssemblyReference.cache
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.Core\bin\Debug\EnterpriseSolution.Core.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.Core\bin\Debug\EnterpriseSolution.Core.pdb
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.Core\obj\Debug\EnterpriseSolution.Core.csproj.CoreCompileInputs.cache
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.Core\obj\Debug\EnterpriseSolution.Core.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.Core\obj\Debug\EnterpriseSolution.Core.pdb
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.Core\obj\Debug\EnterpriseSolution.Core.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.Core\bin\Debug\EnterpriseSolution.Core.dll
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.Core\bin\Debug\EnterpriseSolution.Core.pdb
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.Core\obj\Debug\EnterpriseSolution.Core.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.Core\obj\Debug\EnterpriseSolution.Core.dll
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.Core\obj\Debug\EnterpriseSolution.Core.pdb
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.Core\obj\Debug\EnterpriseSolution.Core.csprojAssemblyReference.cache

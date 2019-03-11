@@ -1,0 +1,50 @@
+﻿@{
+       Layout = null;
+}
+<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+    <h1 class="page-title txt-color-blueDark">
+        <i class="fa-fw fa fa-home"></i> Fixed Asset
+        <span><i class="fa fa-angle-right"></i>&nbsp;Asset Capture</span>
+        <span><i class="fa fa-angle-right"></i>&nbsp;Manage Events</span>
+    </h1>
+</div>
+
+<div class="col-xs-12 col-sm-5 col-md-6 col-lg-6">
+    <h1 class="page-title txt-color-blueDark pull-right">
+        <a href="#/assets/manageAssets" class="btn btn-default"><i class="fa fa-angle-left"></i>&nbsp; Back To Event</a>
+    </h1>
+</div>
+
+
+<hr class="simple">
+<ul id="myTab1" class="nav nav-tabs ">
+
+    <li id="eventTab1">
+        <a ng-click="manageEventsTab('eventTab1')">Accounting Entries</a>
+    </li>
+
+    <li ng-class="navTab2Class" id="eventTab2">
+        <a ng-click="manageEventsTab('eventTab2')">Overrides</a>
+    </li>
+
+    <li ng-class="navTab2Class" id="eventTab3">
+        <a ng-click="manageEventsTab('eventTab3')">Messages</a>
+    </li>
+
+
+</ul>
+
+<div class="tab-content padding-10 bordered">
+    <div class="tab-pane fade in active" id="eventTabContent1">
+        @Html.Partial("ManageAssetsTab/EventsTab/AccountEntries")
+    </div><!-- end of tab content-->
+
+    <div class="tab-pane fade" id="eventTabContent2">
+        @Html.Partial("ManageAssetsTab/EventsTab/OverRides")
+    </div>
+
+    <div class="tab-pane fade" id="eventTabContent3">
+        @Html.Partial("ManageAssetsTab/EventsTab/Messages")
+    </div>
+
+</div>

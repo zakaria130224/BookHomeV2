@@ -1,0 +1,17 @@
+﻿.panel-center {
+    margin-top: 10%;
+    margin-left: 30%;
+}
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.toolbarButton {
+    position: relative;
+    z-index: 99999;
+    top: 37px;
+    left: 242px;
+}
+

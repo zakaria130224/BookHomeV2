@@ -1,0 +1,8 @@
+E:\Project Folders\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.Common\obj\Debug\EnterpriseSolution.Common.csprojResolveAssemblyReference.cache
+E:\Project Folders\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.Common\obj\Debug\EnterpriseSolution.Common.csproj.CoreCompileInputs.cache
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.Common\bin\Debug\EnterpriseSolution.Common.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.Common\bin\Debug\EnterpriseSolution.Common.pdb
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.Common\obj\Debug\EnterpriseSolution.Common.csproj.CoreCompileInputs.cache
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.Common\obj\Debug\EnterpriseSolution.Common.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.Common\obj\Debug\EnterpriseSolution.Common.pdb
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.Common\obj\Debug\EnterpriseSolution.Common.csprojAssemblyReference.cache

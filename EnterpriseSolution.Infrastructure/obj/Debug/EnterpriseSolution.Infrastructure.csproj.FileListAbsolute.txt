@@ -1,0 +1,102 @@
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.Infrastructure\bin\Debug\EnterpriseSolution.Infrastructure.dll.config
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.Infrastructure\bin\Debug\EnterpriseSolution.Infrastructure.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.Infrastructure\bin\Debug\EnterpriseSolution.Infrastructure.pdb
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.Infrastructure\bin\Debug\EnterpriseSolution.Core.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.Infrastructure\bin\Debug\EntityFramework.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.Infrastructure\bin\Debug\EntityFramework.SqlServer.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.Infrastructure\bin\Debug\FluentNHibernate.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.Infrastructure\bin\Debug\Iesi.Collections.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.Infrastructure\bin\Debug\NHibernate.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.Infrastructure\bin\Debug\EnterpriseSolution.Core.pdb
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.Infrastructure\bin\Debug\EntityFramework.xml
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.Infrastructure\bin\Debug\EntityFramework.SqlServer.xml
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.Infrastructure\bin\Debug\FluentNHibernate.pdb
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.Infrastructure\bin\Debug\FluentNHibernate.xml
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.Infrastructure\bin\Debug\Iesi.Collections.xml
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.Infrastructure\bin\Debug\NHibernate.xml
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.Infrastructure\obj\Debug\EnterpriseSolution.Infrastructure.csprojResolveAssemblyReference.cache
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.Infrastructure\obj\Debug\EnterpriseSolution.Infrastructure.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.Infrastructure\obj\Debug\EnterpriseSolution.Infrastructure.pdb
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.Infrastructure\bin\Debug\EnterpriseSolution.Infrastructure.dll.config
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.Infrastructure\bin\Debug\EnterpriseSolution.Infrastructure.dll
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.Infrastructure\bin\Debug\EnterpriseSolution.Infrastructure.pdb
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.Infrastructure\bin\Debug\EnterpriseSolution.Core.dll
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.Infrastructure\bin\Debug\EntityFramework.dll
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.Infrastructure\bin\Debug\EntityFramework.SqlServer.dll
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.Infrastructure\bin\Debug\FluentNHibernate.dll
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.Infrastructure\bin\Debug\Iesi.Collections.dll
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.Infrastructure\bin\Debug\NHibernate.dll
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.Infrastructure\bin\Debug\EnterpriseSolution.Core.pdb
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.Infrastructure\bin\Debug\EntityFramework.xml
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.Infrastructure\bin\Debug\EntityFramework.SqlServer.xml
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.Infrastructure\bin\Debug\FluentNHibernate.pdb
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.Infrastructure\bin\Debug\FluentNHibernate.xml
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.Infrastructure\bin\Debug\Iesi.Collections.xml
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.Infrastructure\bin\Debug\NHibernate.xml
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.Infrastructure\obj\Debug\EnterpriseSolution.Infrastructure.csprojResolveAssemblyReference.cache
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.Infrastructure\obj\Debug\EnterpriseSolution.Infrastructure.dll
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.Infrastructure\obj\Debug\EnterpriseSolution.Infrastructure.pdb
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\trunk\EnterpriseSolution\EnterpriseSolution.Infrastructure\bin\Debug\EnterpriseSolution.Infrastructure.dll.config
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\trunk\EnterpriseSolution\EnterpriseSolution.Infrastructure\bin\Debug\EnterpriseSolution.Infrastructure.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\trunk\EnterpriseSolution\EnterpriseSolution.Infrastructure\bin\Debug\EnterpriseSolution.Infrastructure.pdb
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\trunk\EnterpriseSolution\EnterpriseSolution.Infrastructure\bin\Debug\EnterpriseSolution.Core.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\trunk\EnterpriseSolution\EnterpriseSolution.Infrastructure\bin\Debug\EntityFramework.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\trunk\EnterpriseSolution\EnterpriseSolution.Infrastructure\bin\Debug\EntityFramework.SqlServer.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\trunk\EnterpriseSolution\EnterpriseSolution.Infrastructure\bin\Debug\FluentNHibernate.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\trunk\EnterpriseSolution\EnterpriseSolution.Infrastructure\bin\Debug\Iesi.Collections.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\trunk\EnterpriseSolution\EnterpriseSolution.Infrastructure\bin\Debug\NHibernate.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\trunk\EnterpriseSolution\EnterpriseSolution.Infrastructure\bin\Debug\EnterpriseSolution.Core.pdb
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\trunk\EnterpriseSolution\EnterpriseSolution.Infrastructure\bin\Debug\EntityFramework.xml
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\trunk\EnterpriseSolution\EnterpriseSolution.Infrastructure\bin\Debug\EntityFramework.SqlServer.xml
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\trunk\EnterpriseSolution\EnterpriseSolution.Infrastructure\bin\Debug\FluentNHibernate.pdb
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\trunk\EnterpriseSolution\EnterpriseSolution.Infrastructure\bin\Debug\FluentNHibernate.xml
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\trunk\EnterpriseSolution\EnterpriseSolution.Infrastructure\bin\Debug\Iesi.Collections.xml
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\trunk\EnterpriseSolution\EnterpriseSolution.Infrastructure\bin\Debug\NHibernate.xml
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\trunk\EnterpriseSolution\EnterpriseSolution.Infrastructure\obj\Debug\EnterpriseSolution.Infrastructure.csprojResolveAssemblyReference.cache
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\trunk\EnterpriseSolution\EnterpriseSolution.Infrastructure\obj\Debug\EnterpriseSolution.Infrastructure.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\trunk\EnterpriseSolution\EnterpriseSolution.Infrastructure\obj\Debug\EnterpriseSolution.Infrastructure.pdb
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\trunk\EnterpriseSolution\EnterpriseSolution.Infrastructure\obj\Debug\EnterpriseSolution.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.Infrastructure\bin\Debug\EnterpriseSolution.Infrastructure.dll.config
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.Infrastructure\bin\Debug\EnterpriseSolution.Infrastructure.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.Infrastructure\bin\Debug\EnterpriseSolution.Infrastructure.pdb
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.Infrastructure\bin\Debug\EnterpriseSolution.Core.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.Infrastructure\bin\Debug\EntityFramework.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.Infrastructure\bin\Debug\EntityFramework.SqlServer.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.Infrastructure\bin\Debug\FluentNHibernate.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.Infrastructure\bin\Debug\Iesi.Collections.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.Infrastructure\bin\Debug\NHibernate.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.Infrastructure\bin\Debug\Nut.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.Infrastructure\bin\Debug\EnterpriseSolution.Core.pdb
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.Infrastructure\bin\Debug\EntityFramework.xml
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.Infrastructure\bin\Debug\EntityFramework.SqlServer.xml
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.Infrastructure\bin\Debug\FluentNHibernate.pdb
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.Infrastructure\bin\Debug\FluentNHibernate.xml
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.Infrastructure\bin\Debug\Iesi.Collections.xml
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.Infrastructure\bin\Debug\NHibernate.xml
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.Infrastructure\obj\Debug\EnterpriseSolution.Infrastructure.csprojAssemblyReference.cache
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.Infrastructure\obj\Debug\EnterpriseSolution.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.Infrastructure\obj\Debug\EnterpriseSolution.Infrastructure.csproj.CopyComplete
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.Infrastructure\obj\Debug\EnterpriseSolution.Infrastructure.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.Infrastructure\obj\Debug\EnterpriseSolution.Infrastructure.pdb
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.Infrastructure\bin\Debug\EnterpriseSolution.Infrastructure.dll.config
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.Infrastructure\bin\Debug\EnterpriseSolution.Infrastructure.dll
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.Infrastructure\bin\Debug\EnterpriseSolution.Infrastructure.pdb
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.Infrastructure\bin\Debug\EnterpriseSolution.Core.dll
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.Infrastructure\bin\Debug\EntityFramework.dll
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.Infrastructure\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.Infrastructure\bin\Debug\FluentNHibernate.dll
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.Infrastructure\bin\Debug\Iesi.Collections.dll
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.Infrastructure\bin\Debug\NHibernate.dll
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.Infrastructure\bin\Debug\Nut.dll
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.Infrastructure\bin\Debug\EnterpriseSolution.Core.pdb
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.Infrastructure\bin\Debug\EntityFramework.xml
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.Infrastructure\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.Infrastructure\bin\Debug\FluentNHibernate.pdb
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.Infrastructure\bin\Debug\FluentNHibernate.xml
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.Infrastructure\bin\Debug\Iesi.Collections.xml
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.Infrastructure\bin\Debug\NHibernate.xml
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.Infrastructure\obj\Debug\EnterpriseSolution.Infrastructure.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.Infrastructure\obj\Debug\EnterpriseSolution.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.Infrastructure\obj\Debug\EnterpriseSolution.Infrastructure.csproj.CopyComplete
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.Infrastructure\obj\Debug\EnterpriseSolution.Infrastructure.dll
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.Infrastructure\obj\Debug\EnterpriseSolution.Infrastructure.pdb

@@ -1,0 +1,295 @@
+C:\EnterpriseSolution\EnterpriseSolution.WebApp\bin\ApplicationInsights.config
+C:\EnterpriseSolution\EnterpriseSolution.WebApp\bin\EnterpriseSolution.WebApp.dll.config
+C:\EnterpriseSolution\EnterpriseSolution.WebApp\bin\EnterpriseSolution.WebApp.dll
+C:\EnterpriseSolution\EnterpriseSolution.WebApp\bin\EnterpriseSolution.WebApp.pdb
+C:\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Antlr3.Runtime.dll
+C:\EnterpriseSolution\EnterpriseSolution.WebApp\bin\EntityFramework.dll
+C:\EnterpriseSolution\EnterpriseSolution.WebApp\bin\EntityFramework.SqlServer.dll
+C:\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Microsoft.AI.Agent.Intercept.dll
+C:\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Microsoft.AI.DependencyCollector.dll
+C:\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Microsoft.AI.Web.dll
+C:\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Microsoft.AI.WindowsServer.dll
+C:\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Microsoft.ApplicationInsights.dll
+C:\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Microsoft.Owin.dll
+C:\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Microsoft.Owin.Security.dll
+C:\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Microsoft.Owin.Security.Google.dll
+C:\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Microsoft.Web.Infrastructure.dll
+C:\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Newtonsoft.Json.dll
+C:\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Owin.dll
+C:\EnterpriseSolution\EnterpriseSolution.WebApp\bin\System.Web.Helpers.dll
+C:\EnterpriseSolution\EnterpriseSolution.WebApp\bin\System.Web.Mvc.dll
+C:\EnterpriseSolution\EnterpriseSolution.WebApp\bin\System.Web.Optimization.dll
+C:\EnterpriseSolution\EnterpriseSolution.WebApp\bin\System.Web.Razor.dll
+C:\EnterpriseSolution\EnterpriseSolution.WebApp\bin\System.Web.WebPages.Deployment.dll
+C:\EnterpriseSolution\EnterpriseSolution.WebApp\bin\System.Web.WebPages.dll
+C:\EnterpriseSolution\EnterpriseSolution.WebApp\bin\System.Web.WebPages.Razor.dll
+C:\EnterpriseSolution\EnterpriseSolution.WebApp\bin\WebGrease.dll
+C:\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Microsoft.AI.DependencyCollector.xml
+C:\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Microsoft.AI.Web.xml
+C:\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Microsoft.AI.WindowsServer.xml
+C:\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Microsoft.ApplicationInsights.xml
+C:\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\EnterpriseSolution\EnterpriseSolution.WebApp\bin\System.Web.Helpers.xml
+C:\EnterpriseSolution\EnterpriseSolution.WebApp\bin\System.Web.Mvc.xml
+C:\EnterpriseSolution\EnterpriseSolution.WebApp\bin\System.Web.Optimization.xml
+C:\EnterpriseSolution\EnterpriseSolution.WebApp\bin\System.Web.Razor.xml
+C:\EnterpriseSolution\EnterpriseSolution.WebApp\bin\System.Web.WebPages.xml
+C:\EnterpriseSolution\EnterpriseSolution.WebApp\bin\System.Web.WebPages.Deployment.xml
+C:\EnterpriseSolution\EnterpriseSolution.WebApp\bin\System.Web.WebPages.Razor.xml
+C:\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Antlr3.Runtime.pdb
+C:\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Newtonsoft.Json.xml
+C:\EnterpriseSolution\EnterpriseSolution.WebApp\bin\EntityFramework.xml
+C:\EnterpriseSolution\EnterpriseSolution.WebApp\bin\EntityFramework.SqlServer.xml
+C:\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Microsoft.Owin.xml
+C:\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Microsoft.Owin.Security.xml
+C:\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Microsoft.Owin.Security.Google.xml
+C:\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\EnterpriseSolution\EnterpriseSolution.WebApp\obj\Debug\EnterpriseSolution.WebApp.dll
+C:\EnterpriseSolution\EnterpriseSolution.WebApp\obj\Debug\EnterpriseSolution.WebApp.pdb
+C:\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\EnterpriseSolution\EnterpriseSolution.WebApp\bin\System.Diagnostics.DiagnosticSource.dll
+C:\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\EnterpriseSolution\EnterpriseSolution.WebApp\bin\System.Diagnostics.DiagnosticSource.xml
+E:\cheesecakeict\EnterpriseSolution\EnterpriseSolution.WebApp\bin\ApplicationInsights.config
+E:\cheesecakeict\EnterpriseSolution\EnterpriseSolution.WebApp\bin\EnterpriseSolution.WebApp.dll.config
+E:\cheesecakeict\EnterpriseSolution\EnterpriseSolution.WebApp\bin\EnterpriseSolution.WebApp.dll
+E:\cheesecakeict\EnterpriseSolution\EnterpriseSolution.WebApp\bin\EnterpriseSolution.WebApp.pdb
+E:\cheesecakeict\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Antlr3.Runtime.dll
+E:\cheesecakeict\EnterpriseSolution\EnterpriseSolution.WebApp\bin\EntityFramework.dll
+E:\cheesecakeict\EnterpriseSolution\EnterpriseSolution.WebApp\bin\EntityFramework.SqlServer.dll
+E:\cheesecakeict\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Microsoft.AI.Agent.Intercept.dll
+E:\cheesecakeict\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Microsoft.AI.DependencyCollector.dll
+E:\cheesecakeict\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\cheesecakeict\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\cheesecakeict\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Microsoft.AI.Web.dll
+E:\cheesecakeict\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Microsoft.AI.WindowsServer.dll
+E:\cheesecakeict\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Microsoft.ApplicationInsights.dll
+E:\cheesecakeict\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Microsoft.AspNet.Identity.Core.dll
+E:\cheesecakeict\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\cheesecakeict\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\cheesecakeict\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+E:\cheesecakeict\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\cheesecakeict\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Microsoft.Owin.dll
+E:\cheesecakeict\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\cheesecakeict\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Microsoft.Owin.Security.Cookies.dll
+E:\cheesecakeict\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Microsoft.Owin.Security.dll
+E:\cheesecakeict\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Microsoft.Owin.Security.Facebook.dll
+E:\cheesecakeict\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Microsoft.Owin.Security.Google.dll
+E:\cheesecakeict\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\cheesecakeict\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Microsoft.Owin.Security.OAuth.dll
+E:\cheesecakeict\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Microsoft.Owin.Security.Twitter.dll
+E:\cheesecakeict\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Microsoft.Web.Infrastructure.dll
+E:\cheesecakeict\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Newtonsoft.Json.dll
+E:\cheesecakeict\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Owin.dll
+E:\cheesecakeict\EnterpriseSolution\EnterpriseSolution.WebApp\bin\System.Diagnostics.DiagnosticSource.dll
+E:\cheesecakeict\EnterpriseSolution\EnterpriseSolution.WebApp\bin\System.Web.Helpers.dll
+E:\cheesecakeict\EnterpriseSolution\EnterpriseSolution.WebApp\bin\System.Web.Mvc.dll
+E:\cheesecakeict\EnterpriseSolution\EnterpriseSolution.WebApp\bin\System.Web.Optimization.dll
+E:\cheesecakeict\EnterpriseSolution\EnterpriseSolution.WebApp\bin\System.Web.Razor.dll
+E:\cheesecakeict\EnterpriseSolution\EnterpriseSolution.WebApp\bin\System.Web.WebPages.Deployment.dll
+E:\cheesecakeict\EnterpriseSolution\EnterpriseSolution.WebApp\bin\System.Web.WebPages.dll
+E:\cheesecakeict\EnterpriseSolution\EnterpriseSolution.WebApp\bin\System.Web.WebPages.Razor.dll
+E:\cheesecakeict\EnterpriseSolution\EnterpriseSolution.WebApp\bin\WebGrease.dll
+E:\cheesecakeict\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Antlr3.Runtime.pdb
+E:\cheesecakeict\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Microsoft.AI.DependencyCollector.xml
+E:\cheesecakeict\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\cheesecakeict\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Microsoft.AI.Web.xml
+E:\cheesecakeict\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Microsoft.AI.WindowsServer.xml
+E:\cheesecakeict\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Microsoft.ApplicationInsights.xml
+E:\cheesecakeict\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+E:\cheesecakeict\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\cheesecakeict\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Microsoft.Owin.xml
+E:\cheesecakeict\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\cheesecakeict\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Microsoft.Owin.Security.xml
+E:\cheesecakeict\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Microsoft.Owin.Security.Cookies.xml
+E:\cheesecakeict\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Microsoft.Owin.Security.Facebook.xml
+E:\cheesecakeict\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Microsoft.Owin.Security.Google.xml
+E:\cheesecakeict\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\cheesecakeict\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Microsoft.Owin.Security.OAuth.xml
+E:\cheesecakeict\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Microsoft.Owin.Security.Twitter.xml
+E:\cheesecakeict\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Newtonsoft.Json.xml
+E:\cheesecakeict\EnterpriseSolution\EnterpriseSolution.WebApp\bin\System.Diagnostics.DiagnosticSource.xml
+E:\cheesecakeict\EnterpriseSolution\EnterpriseSolution.WebApp\bin\System.Web.Helpers.xml
+E:\cheesecakeict\EnterpriseSolution\EnterpriseSolution.WebApp\bin\System.Web.Mvc.xml
+E:\cheesecakeict\EnterpriseSolution\EnterpriseSolution.WebApp\bin\System.Web.Optimization.xml
+E:\cheesecakeict\EnterpriseSolution\EnterpriseSolution.WebApp\bin\System.Web.Razor.xml
+E:\cheesecakeict\EnterpriseSolution\EnterpriseSolution.WebApp\bin\System.Web.WebPages.xml
+E:\cheesecakeict\EnterpriseSolution\EnterpriseSolution.WebApp\bin\System.Web.WebPages.Deployment.xml
+E:\cheesecakeict\EnterpriseSolution\EnterpriseSolution.WebApp\bin\System.Web.WebPages.Razor.xml
+E:\cheesecakeict\EnterpriseSolution\EnterpriseSolution.WebApp\bin\EntityFramework.xml
+E:\cheesecakeict\EnterpriseSolution\EnterpriseSolution.WebApp\bin\EntityFramework.SqlServer.xml
+E:\cheesecakeict\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Microsoft.AspNet.Identity.Core.xml
+E:\cheesecakeict\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\cheesecakeict\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\cheesecakeict\EnterpriseSolution\EnterpriseSolution.WebApp\obj\Debug\EnterpriseSolution.WebApp.csprojResolveAssemblyReference.cache
+E:\cheesecakeict\EnterpriseSolution\EnterpriseSolution.WebApp\obj\Debug\EnterpriseSolution.WebApp.dll
+E:\cheesecakeict\EnterpriseSolution\EnterpriseSolution.WebApp\obj\Debug\EnterpriseSolution.WebApp.pdb
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebApp\bin\ApplicationInsights.config
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebApp\bin\EnterpriseSolution.WebApp.dll.config
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebApp\bin\EnterpriseSolution.WebApp.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebApp\bin\EnterpriseSolution.WebApp.pdb
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Antlr3.Runtime.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebApp\bin\EntityFramework.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebApp\bin\EntityFramework.SqlServer.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Microsoft.AI.Agent.Intercept.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Microsoft.AI.DependencyCollector.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Microsoft.AI.Web.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Microsoft.AI.WindowsServer.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Microsoft.ApplicationInsights.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Microsoft.AspNet.Identity.Core.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Microsoft.Owin.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Microsoft.Owin.Security.Cookies.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Microsoft.Owin.Security.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Microsoft.Owin.Security.Facebook.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Microsoft.Owin.Security.Google.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Microsoft.Owin.Security.OAuth.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Microsoft.Owin.Security.Twitter.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Microsoft.Web.Infrastructure.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Newtonsoft.Json.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Owin.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebApp\bin\System.Diagnostics.DiagnosticSource.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebApp\bin\System.Web.Helpers.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebApp\bin\System.Web.Mvc.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebApp\bin\System.Web.Optimization.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebApp\bin\System.Web.Razor.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebApp\bin\System.Web.WebPages.Deployment.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebApp\bin\System.Web.WebPages.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebApp\bin\System.Web.WebPages.Razor.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebApp\bin\WebGrease.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Antlr3.Runtime.pdb
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Microsoft.AI.DependencyCollector.xml
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Microsoft.AI.Web.xml
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Microsoft.AI.WindowsServer.xml
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Microsoft.ApplicationInsights.xml
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Microsoft.Owin.xml
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Microsoft.Owin.Security.xml
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Microsoft.Owin.Security.Cookies.xml
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Microsoft.Owin.Security.Facebook.xml
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Microsoft.Owin.Security.Google.xml
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Microsoft.Owin.Security.OAuth.xml
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Microsoft.Owin.Security.Twitter.xml
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Newtonsoft.Json.xml
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebApp\bin\System.Diagnostics.DiagnosticSource.xml
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebApp\bin\System.Web.Helpers.xml
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebApp\bin\System.Web.Mvc.xml
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebApp\bin\System.Web.Optimization.xml
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebApp\bin\System.Web.Razor.xml
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebApp\bin\System.Web.WebPages.xml
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebApp\bin\System.Web.WebPages.Deployment.xml
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebApp\bin\System.Web.WebPages.Razor.xml
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebApp\bin\EntityFramework.xml
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebApp\bin\EntityFramework.SqlServer.xml
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Microsoft.AspNet.Identity.Core.xml
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebApp\obj\Debug\EnterpriseSolution.WebApp.csprojResolveAssemblyReference.cache
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebApp\obj\Debug\EnterpriseSolution.WebApp.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebApp\obj\Debug\EnterpriseSolution.WebApp.pdb
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebApp\bin\ApplicationInsights.config
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebApp\bin\EnterpriseSolution.WebApp.dll.config
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebApp\bin\EnterpriseSolution.WebApp.dll
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebApp\bin\EnterpriseSolution.WebApp.pdb
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Antlr3.Runtime.dll
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebApp\bin\EntityFramework.dll
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebApp\bin\EntityFramework.SqlServer.dll
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Microsoft.AI.DependencyCollector.dll
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Microsoft.AI.Web.dll
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Microsoft.AI.WindowsServer.dll
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Microsoft.ApplicationInsights.dll
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Microsoft.Owin.dll
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Microsoft.Owin.Security.dll
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Microsoft.Owin.Security.Google.dll
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Microsoft.Web.Infrastructure.dll
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Newtonsoft.Json.dll
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Owin.dll
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebApp\bin\System.Diagnostics.DiagnosticSource.dll
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebApp\bin\System.Web.Helpers.dll
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebApp\bin\System.Web.Mvc.dll
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebApp\bin\System.Web.Optimization.dll
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebApp\bin\System.Web.Razor.dll
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebApp\bin\System.Web.WebPages.Deployment.dll
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebApp\bin\System.Web.WebPages.dll
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebApp\bin\System.Web.WebPages.Razor.dll
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebApp\bin\WebGrease.dll
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Antlr3.Runtime.pdb
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Microsoft.AI.DependencyCollector.xml
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Microsoft.AI.Web.xml
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Microsoft.AI.WindowsServer.xml
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Microsoft.ApplicationInsights.xml
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Microsoft.Owin.xml
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Microsoft.Owin.Security.xml
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Microsoft.Owin.Security.Google.xml
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Newtonsoft.Json.xml
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebApp\bin\System.Diagnostics.DiagnosticSource.xml
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebApp\bin\System.Web.Helpers.xml
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebApp\bin\System.Web.Mvc.xml
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebApp\bin\System.Web.Optimization.xml
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebApp\bin\System.Web.Razor.xml
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebApp\bin\System.Web.WebPages.xml
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebApp\bin\System.Web.WebPages.Deployment.xml
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebApp\bin\System.Web.WebPages.Razor.xml
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebApp\bin\EntityFramework.xml
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebApp\bin\EntityFramework.SqlServer.xml
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebApp\obj\Debug\EnterpriseSolution.WebApp.dll
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebApp\obj\Debug\EnterpriseSolution.WebApp.pdb
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebApp\obj\Debug\EnterpriseSolution.WebApp.csprojResolveAssemblyReference.cache

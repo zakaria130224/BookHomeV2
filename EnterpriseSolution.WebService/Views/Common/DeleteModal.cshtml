@@ -1,0 +1,30 @@
+﻿<!-- Delete Modal HTML -->
+<div id="{{uniqueId}}" class="modal fade">
+    <div class="modal-dialog modal-confirm">
+        <div class="modal-content" dragable>
+            <!--Header-->
+            <div class="modal-header">
+                <div class="icon-box">
+                    <i class="glyphicon glyphicon-remove"></i>
+                </div>
+                <h4 class="modal-title">{{deleteTitle}}</h4>
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+            </div>
+            <!--Body-->
+            <div class="modal-body">
+                <p>{{deleteLabel}}</p>
+            </div>
+            <!--Footer-->
+            <div class="modal-footer">
+                <button type="button" class="btn btn-info" data-dismiss="modal">
+                    <i class="fa fa-times" aria-hidden="true"></i>
+                    Cancel
+                </button>
+                <button type="button" class="btn btn-danger" ng-click="NotifyParent()">
+                    <i class="fa fa-trash" aria-hidden="true"></i>
+                    Delete
+                </button>
+            </div>
+        </div>
+    </div>
+</div>

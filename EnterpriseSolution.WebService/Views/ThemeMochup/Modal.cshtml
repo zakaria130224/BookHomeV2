@@ -1,0 +1,11 @@
+﻿<div class="divMessageBox animated fadeIn fast" id="MsgBoxBack" ng-show="showModal">
+    <div class="MessageBoxContainer animated fadeIn fast" id="Msg1">
+        <div class="MessageBoxMiddle">
+            <span class="MsgTitle"><i class="fa fa-refresh" style="color: green"></i> {{modal.title}} </span><p class="pText">{{modal.description}}</p>
+            <div class="MessageBoxButtonSection">
+                <button id="bot1-Msg1" class="btn btn-default btn-sm botTempo" ng-click="confirmation('false')"> No</button>
+                <button id="bot2-Msg1" class="btn btn-default btn-sm botTempo" ng-click="confirmation('true')"> Yes</button>
+            </div>
+        </div>
+    </div>
+</div>

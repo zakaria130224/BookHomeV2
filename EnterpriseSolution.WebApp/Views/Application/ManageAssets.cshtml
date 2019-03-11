@@ -1,0 +1,115 @@
+﻿@model dynamic
+
+@{
+    Layout = null;
+}
+
+<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+    <h1 class="page-title txt-color-blueDark">
+        <i class="fa-fw fa fa-home"></i> Fixed Asset
+        <span><i class="fa fa-angle-right"></i>&nbsp;Asset Capture</span>
+        <span><i class="fa fa-angle-right"></i>&nbsp;Manage Assets</span>
+    </h1>
+</div>
+
+<div class="col-xs-12 col-sm-5 col-md-6 col-lg-6">
+    <h1 class="page-title txt-color-blueDark pull-right">
+        <a href="#/assets" class="btn btn-default"><i class="fa fa-angle-left"></i>&nbsp; Back To Asset</a>
+    </h1>
+</div>
+
+
+<div class="widget-body">
+ 
+    <hr class="simple">
+    <ul id="myTab1" class="nav nav-tabs ">
+
+        <li id="navTab1">
+            <a ng-click="eventsTab('navTab1')">Events</a>
+        </li>
+
+        @*<li ng-class="navTab2Class" id="navTab2">
+            <a ng-click="eventsTab('navTab2')">Assets Details</a>
+        </li>*@
+
+        @*<li ng-class="navTab3Class" id="navTab3">
+            <a ng-click="eventsTab('navTab3')">Add hoc schedular</a>
+        </li>*@
+
+        <li ng-class="navTab4Class" id="navTab4">
+            <a ng-click="eventsTab('navTab4')">Linkage details</a>
+        </li>
+
+
+        <li ng-class="navTab5Class" id="navTab5">
+            <a ng-click="eventsTab('navTab5')">Settlements</a>
+        </li>
+
+        <li ng-class="navTab6Class" id="navTab6">
+            <a ng-click="eventsTab('navTab6')">Advices</a>
+        </li>
+
+        <li ng-class="navTab7Class" id="navTab7">
+            <a ng-click="eventsTab('navTab7')">Chages</a>
+        </li>
+
+        <li ng-class="navTab8Class" id="navTab8">
+            <a ng-click="eventsTab('navTab8')">MIS</a>
+        </li>
+
+        <li ng-class="navTab9Class" id="navTab9">
+            <a ng-click="eventsTab('navTab9')">Fields</a>
+        </li>
+
+    </ul>
+
+    <div  class="tab-content padding-10 bordered">
+        <div class="tab-pane fade in active" id="navTabContent1">
+            @Html.Partial("ManageAssetsTab/Events")
+        </div><!-- end of tab content-->
+
+        
+
+
+        <div class="tab-pane fade" id="navTabContent2">          
+                @Html.Partial("ManageAssetsTab/AssetDetails")
+        </div>
+        <div class="tab-pane fade" id="navTabContent3">
+            <p>
+              Tab 3
+            </p>
+        </div>
+        <div class="tab-pane fade" id="navTabContent4">
+          
+                @Html.Partial("ManageAssetsTab/LinkageDetails")
+           
+        </div>
+        <div class="tab-pane fade" id="navTabContent5">
+            <p>
+                navTabContent5
+            </p>
+        </div>
+        <div class="tab-pane fade" id="navTabContent6">
+            <p>
+                navTabContent6
+            </p>
+        </div>
+        <div class="tab-pane fade" id="navTabContent7">
+            <p>
+                navTabContent7
+            </p>
+        </div>
+        <div class="tab-pane fade" id="navTabContent8">
+            <p>
+                navTabContent8
+            </p>
+        </div>
+
+        <div class="tab-pane fade" id="navTabContent9">
+            <p>
+                @Html.Partial("ManageAssetsTab/Fields");
+            </p>
+        </div>
+    </div>
+
+</div>

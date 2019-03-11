@@ -1,0 +1,830 @@
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebService\bin\ApplicationInsights.config
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebService\bin\roslyn\csc.exe
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebService\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebService\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebService\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebService\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebService\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebService\bin\roslyn\System.Collections.Immutable.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebService\bin\roslyn\System.Reflection.Metadata.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebService\bin\roslyn\vbc.exe
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebService\bin\roslyn\VBCSCompiler.exe
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebService\bin\roslyn\VBCSCompiler.exe.config
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebService\bin\EnterpriseSolution.WebService.dll.config
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebService\bin\EnterpriseSolution.WebService.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebService\bin\EnterpriseSolution.WebService.pdb
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebService\bin\Antlr3.Runtime.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebService\bin\DependecyResolution.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebService\bin\EnterpriseSolution.Core.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebService\bin\EntityFramework.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebService\bin\EntityFramework.SqlServer.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.AI.Agent.Intercept.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.AI.DependencyCollector.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.AI.Web.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.AI.WindowsServer.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.ApplicationInsights.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.AspNet.Identity.Core.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.Owin.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.Owin.Security.Cookies.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.Owin.Security.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.Owin.Security.Facebook.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.Owin.Security.Google.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.Owin.Security.OAuth.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.Owin.Security.Twitter.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.Web.Infrastructure.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebService\bin\Newtonsoft.Json.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebService\bin\Ninject.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebService\bin\Ninject.Web.Common.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebService\bin\Ninject.Web.WebApi.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebService\bin\Owin.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebService\bin\System.Net.Http.Formatting.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebService\bin\System.Web.Helpers.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebService\bin\System.Web.Http.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebService\bin\System.Web.Http.Owin.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebService\bin\System.Web.Http.WebHost.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebService\bin\System.Web.Mvc.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebService\bin\System.Web.Optimization.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebService\bin\System.Web.Razor.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebService\bin\System.Web.WebPages.Deployment.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebService\bin\System.Web.WebPages.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebService\bin\System.Web.WebPages.Razor.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebService\bin\WebActivatorEx.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebService\bin\WebGrease.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebService\bin\EnterpriseSolution.Infrastructure.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebService\bin\FluentNHibernate.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebService\bin\NHibernate.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebService\bin\Iesi.Collections.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebService\bin\DependecyResolution.pdb
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebService\bin\EnterpriseSolution.Core.pdb
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.AI.DependencyCollector.xml
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.AI.Web.xml
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.AI.WindowsServer.xml
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.ApplicationInsights.xml
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebService\bin\Ninject.xml
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebService\bin\Ninject.Web.Common.xml
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebService\bin\Ninject.Web.WebApi.xml
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebService\bin\Newtonsoft.Json.xml
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebService\bin\System.Net.Http.Formatting.xml
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebService\bin\System.Web.Helpers.xml
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebService\bin\System.Web.Http.xml
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebService\bin\System.Web.Http.WebHost.xml
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebService\bin\System.Web.Mvc.xml
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebService\bin\System.Web.Optimization.xml
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebService\bin\System.Web.Razor.xml
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebService\bin\System.Web.WebPages.xml
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebService\bin\System.Web.WebPages.Deployment.xml
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebService\bin\System.Web.WebPages.Razor.xml
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebService\bin\Antlr3.Runtime.pdb
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebService\bin\EntityFramework.xml
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebService\bin\EntityFramework.SqlServer.xml
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.AspNet.Identity.Core.xml
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.Owin.xml
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.Owin.Security.xml
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.Owin.Security.Facebook.xml
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.Owin.Security.Cookies.xml
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.Owin.Security.OAuth.xml
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.Owin.Security.Google.xml
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.Owin.Security.Twitter.xml
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebService\bin\System.Web.Http.Owin.xml
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebService\bin\EnterpriseSolution.Infrastructure.pdb
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebService\bin\EnterpriseSolution.Infrastructure.dll.config
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebService\bin\FluentNHibernate.pdb
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebService\bin\FluentNHibernate.xml
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebService\bin\NHibernate.xml
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebService\bin\Iesi.Collections.xml
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebService\obj\Debug\EnterpriseSolution.WebService.csprojResolveAssemblyReference.cache
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebService\obj\Debug\EnterpriseSolution.WebService.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebService\obj\Debug\EnterpriseSolution.WebService.pdb
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebService\bin\System.Web.Cors.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebService\bin\System.Web.Http.Cors.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\EnterpriseSolution.WebService\bin\System.Web.Http.Cors.xml
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebService\bin\ApplicationInsights.config
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebService\bin\roslyn\csc.exe
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebService\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebService\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebService\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebService\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebService\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebService\bin\roslyn\System.Collections.Immutable.dll
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebService\bin\roslyn\System.Reflection.Metadata.dll
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebService\bin\roslyn\vbc.exe
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebService\bin\roslyn\VBCSCompiler.exe
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebService\bin\roslyn\VBCSCompiler.exe.config
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebService\bin\EnterpriseSolution.WebService.dll.config
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebService\bin\EnterpriseSolution.WebService.dll
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebService\bin\EnterpriseSolution.WebService.pdb
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebService\bin\Antlr3.Runtime.dll
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebService\bin\DependecyResolution.dll
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebService\bin\EnterpriseSolution.Core.dll
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebService\bin\EntityFramework.dll
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebService\bin\EntityFramework.SqlServer.dll
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.AI.DependencyCollector.dll
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.AI.Web.dll
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.AI.WindowsServer.dll
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.ApplicationInsights.dll
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.Owin.dll
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.Owin.Security.dll
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.Owin.Security.Google.dll
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.Web.Infrastructure.dll
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebService\bin\Newtonsoft.Json.dll
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebService\bin\Ninject.dll
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebService\bin\Ninject.Web.Common.dll
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebService\bin\Ninject.Web.WebApi.dll
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebService\bin\Owin.dll
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebService\bin\System.Net.Http.Formatting.dll
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebService\bin\System.Web.Cors.dll
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebService\bin\System.Web.Helpers.dll
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebService\bin\System.Web.Http.Cors.dll
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebService\bin\System.Web.Http.dll
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebService\bin\System.Web.Http.Owin.dll
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebService\bin\System.Web.Http.WebHost.dll
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebService\bin\System.Web.Mvc.dll
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebService\bin\System.Web.Optimization.dll
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebService\bin\System.Web.Razor.dll
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebService\bin\System.Web.WebPages.Deployment.dll
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebService\bin\System.Web.WebPages.dll
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebService\bin\System.Web.WebPages.Razor.dll
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebService\bin\WebActivatorEx.dll
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebService\bin\WebGrease.dll
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebService\bin\EnterpriseSolution.Infrastructure.dll
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebService\bin\NHibernate.dll
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebService\bin\FluentNHibernate.dll
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebService\bin\Iesi.Collections.dll
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebService\bin\DependecyResolution.pdb
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebService\bin\EnterpriseSolution.Core.pdb
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.AI.DependencyCollector.xml
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.AI.Web.xml
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.AI.WindowsServer.xml
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.ApplicationInsights.xml
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebService\bin\Ninject.xml
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebService\bin\Ninject.Web.Common.xml
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebService\bin\Ninject.Web.WebApi.xml
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebService\bin\System.Web.Http.Cors.xml
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebService\bin\Newtonsoft.Json.xml
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebService\bin\System.Net.Http.Formatting.xml
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebService\bin\System.Web.Helpers.xml
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebService\bin\System.Web.Http.xml
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebService\bin\System.Web.Http.WebHost.xml
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebService\bin\System.Web.Mvc.xml
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebService\bin\System.Web.Optimization.xml
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebService\bin\System.Web.Razor.xml
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebService\bin\System.Web.WebPages.xml
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebService\bin\System.Web.WebPages.Deployment.xml
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebService\bin\System.Web.WebPages.Razor.xml
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebService\bin\Antlr3.Runtime.pdb
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebService\bin\EntityFramework.xml
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebService\bin\EntityFramework.SqlServer.xml
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.Owin.xml
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.Owin.Security.xml
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.Owin.Security.Google.xml
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebService\bin\System.Web.Http.Owin.xml
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebService\bin\EnterpriseSolution.Infrastructure.pdb
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebService\bin\NHibernate.xml
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebService\bin\FluentNHibernate.pdb
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebService\bin\FluentNHibernate.xml
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebService\bin\Iesi.Collections.xml
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebService\obj\Debug\EnterpriseSolution.WebService.csprojResolveAssemblyReference.cache
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebService\obj\Debug\EnterpriseSolution.WebService.dll
+E:\Projects\EnterpriseSolution\EnterpriseSolution\EnterpriseSolution.WebService\obj\Debug\EnterpriseSolution.WebService.pdb
+E:\Projects\Enterprise\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\ApplicationInsights.config
+E:\Projects\Enterprise\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\roslyn\csc.exe
+E:\Projects\Enterprise\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Projects\Enterprise\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Projects\Enterprise\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Projects\Enterprise\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Projects\Enterprise\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Projects\Enterprise\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Projects\Enterprise\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\roslyn\System.Collections.Immutable.dll
+E:\Projects\Enterprise\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\roslyn\System.Reflection.Metadata.dll
+E:\Projects\Enterprise\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\roslyn\vbc.exe
+E:\Projects\Enterprise\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\roslyn\VBCSCompiler.exe
+E:\Projects\Enterprise\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\roslyn\VBCSCompiler.exe.config
+E:\Projects\Enterprise\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\EnterpriseSolution.WebService.dll.config
+E:\Projects\Enterprise\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\EnterpriseSolution.WebService.dll
+E:\Projects\Enterprise\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\EnterpriseSolution.WebService.pdb
+E:\Projects\Enterprise\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Antlr3.Runtime.dll
+E:\Projects\Enterprise\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\DependecyResolution.dll
+E:\Projects\Enterprise\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\EnterpriseSolution.Core.dll
+E:\Projects\Enterprise\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\EntityFramework.dll
+E:\Projects\Enterprise\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\EntityFramework.SqlServer.dll
+E:\Projects\Enterprise\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Projects\Enterprise\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.AI.DependencyCollector.dll
+E:\Projects\Enterprise\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Projects\Enterprise\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Projects\Enterprise\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.AI.Web.dll
+E:\Projects\Enterprise\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.AI.WindowsServer.dll
+E:\Projects\Enterprise\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.ApplicationInsights.dll
+E:\Projects\Enterprise\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Projects\Enterprise\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Projects\Enterprise\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Projects\Enterprise\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Projects\Enterprise\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.Owin.dll
+E:\Projects\Enterprise\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Projects\Enterprise\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Projects\Enterprise\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.Owin.Security.dll
+E:\Projects\Enterprise\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Projects\Enterprise\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.Owin.Security.Google.dll
+E:\Projects\Enterprise\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Projects\Enterprise\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Projects\Enterprise\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Projects\Enterprise\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.Web.Infrastructure.dll
+E:\Projects\Enterprise\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Newtonsoft.Json.dll
+E:\Projects\Enterprise\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Ninject.dll
+E:\Projects\Enterprise\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Ninject.Web.Common.dll
+E:\Projects\Enterprise\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Ninject.Web.WebApi.dll
+E:\Projects\Enterprise\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Owin.dll
+E:\Projects\Enterprise\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\System.Net.Http.Formatting.dll
+E:\Projects\Enterprise\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\System.Web.Cors.dll
+E:\Projects\Enterprise\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\System.Web.Helpers.dll
+E:\Projects\Enterprise\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\System.Web.Http.Cors.dll
+E:\Projects\Enterprise\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\System.Web.Http.dll
+E:\Projects\Enterprise\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\System.Web.Http.Owin.dll
+E:\Projects\Enterprise\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\System.Web.Http.WebHost.dll
+E:\Projects\Enterprise\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\System.Web.Mvc.dll
+E:\Projects\Enterprise\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\System.Web.Optimization.dll
+E:\Projects\Enterprise\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\System.Web.Razor.dll
+E:\Projects\Enterprise\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\System.Web.WebPages.Deployment.dll
+E:\Projects\Enterprise\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\System.Web.WebPages.dll
+E:\Projects\Enterprise\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\System.Web.WebPages.Razor.dll
+E:\Projects\Enterprise\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\WebActivatorEx.dll
+E:\Projects\Enterprise\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\WebGrease.dll
+E:\Projects\Enterprise\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\EnterpriseSolution.Infrastructure.dll
+E:\Projects\Enterprise\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\NHibernate.dll
+E:\Projects\Enterprise\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\FluentNHibernate.dll
+E:\Projects\Enterprise\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Iesi.Collections.dll
+E:\Projects\Enterprise\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\DependecyResolution.pdb
+E:\Projects\Enterprise\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\EnterpriseSolution.Core.pdb
+E:\Projects\Enterprise\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.AI.DependencyCollector.xml
+E:\Projects\Enterprise\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Projects\Enterprise\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.AI.Web.xml
+E:\Projects\Enterprise\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.AI.WindowsServer.xml
+E:\Projects\Enterprise\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.ApplicationInsights.xml
+E:\Projects\Enterprise\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Projects\Enterprise\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Ninject.xml
+E:\Projects\Enterprise\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Ninject.Web.Common.xml
+E:\Projects\Enterprise\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Ninject.Web.WebApi.xml
+E:\Projects\Enterprise\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\System.Web.Http.Cors.xml
+E:\Projects\Enterprise\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Newtonsoft.Json.xml
+E:\Projects\Enterprise\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\System.Net.Http.Formatting.xml
+E:\Projects\Enterprise\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\System.Web.Helpers.xml
+E:\Projects\Enterprise\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\System.Web.Http.xml
+E:\Projects\Enterprise\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\System.Web.Http.WebHost.xml
+E:\Projects\Enterprise\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\System.Web.Mvc.xml
+E:\Projects\Enterprise\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\System.Web.Optimization.xml
+E:\Projects\Enterprise\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\System.Web.Razor.xml
+E:\Projects\Enterprise\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\System.Web.WebPages.xml
+E:\Projects\Enterprise\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\System.Web.WebPages.Deployment.xml
+E:\Projects\Enterprise\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\System.Web.WebPages.Razor.xml
+E:\Projects\Enterprise\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Antlr3.Runtime.pdb
+E:\Projects\Enterprise\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\EntityFramework.xml
+E:\Projects\Enterprise\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\EntityFramework.SqlServer.xml
+E:\Projects\Enterprise\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Projects\Enterprise\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Projects\Enterprise\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Projects\Enterprise\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.Owin.xml
+E:\Projects\Enterprise\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Projects\Enterprise\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.Owin.Security.xml
+E:\Projects\Enterprise\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Projects\Enterprise\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Projects\Enterprise\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Projects\Enterprise\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.Owin.Security.Google.xml
+E:\Projects\Enterprise\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Projects\Enterprise\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Projects\Enterprise\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\System.Web.Http.Owin.xml
+E:\Projects\Enterprise\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\EnterpriseSolution.Infrastructure.pdb
+E:\Projects\Enterprise\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\NHibernate.xml
+E:\Projects\Enterprise\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\FluentNHibernate.pdb
+E:\Projects\Enterprise\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\FluentNHibernate.xml
+E:\Projects\Enterprise\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Iesi.Collections.xml
+E:\Projects\Enterprise\trunk\EnterpriseSolution\EnterpriseSolution.WebService\obj\Debug\EnterpriseSolution.WebService.csprojResolveAssemblyReference.cache
+E:\Projects\Enterprise\trunk\EnterpriseSolution\EnterpriseSolution.WebService\obj\Debug\EnterpriseSolution.WebService.dll
+E:\Projects\Enterprise\trunk\EnterpriseSolution\EnterpriseSolution.WebService\obj\Debug\EnterpriseSolution.WebService.pdb
+E:\Projects\Enterprise\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Ninject.Web.Mvc.dll
+E:\Projects\Enterprise\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Ninject.Web.Mvc.xml
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\trunk\EnterpriseSolution\EnterpriseSolution.WebService\obj\Debug\EnterpriseSolution.WebService.csprojResolveAssemblyReference.cache
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\trunk\EnterpriseSolution\EnterpriseSolution.WebService\obj\Debug\EnterpriseSolution.WebService.csproj.CoreCompileInputs.cache
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\trunk\EnterpriseSolution\EnterpriseSolution.WebService\obj\Debug\EnterpriseSolution.WebService.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\trunk\EnterpriseSolution\EnterpriseSolution.WebService\obj\Debug\EnterpriseSolution.WebService.pdb
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\ApplicationInsights.config
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\roslyn\csc.exe
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\roslyn\System.Collections.Immutable.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\roslyn\System.Reflection.Metadata.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\roslyn\vbc.exe
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\roslyn\VBCSCompiler.exe
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\roslyn\VBCSCompiler.exe.config
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\EnterpriseSolution.WebService.dll.config
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\EnterpriseSolution.WebService.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\EnterpriseSolution.WebService.pdb
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Antlr3.Runtime.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\DependecyResolution.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\EnterpriseSolution.Core.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\EnterpriseSolution.Infrastructure.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\EntityFramework.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\EntityFramework.SqlServer.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.AI.Agent.Intercept.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.AI.DependencyCollector.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.AI.Web.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.AI.WindowsServer.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.ApplicationInsights.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.AspNet.Identity.Core.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.Owin.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.Owin.Security.Cookies.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.Owin.Security.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.Owin.Security.Facebook.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.Owin.Security.Google.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.Owin.Security.OAuth.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.Owin.Security.Twitter.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.Web.Infrastructure.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Newtonsoft.Json.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Ninject.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Ninject.Web.Common.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Ninject.Web.Mvc.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Ninject.Web.WebApi.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Owin.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\System.Net.Http.Formatting.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\System.Web.Cors.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\System.Web.Helpers.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\System.Web.Http.Cors.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\System.Web.Http.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\System.Web.Http.Owin.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\System.Web.Http.WebHost.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\System.Web.Mvc.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\System.Web.Optimization.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\System.Web.Razor.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\System.Web.WebPages.Deployment.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\System.Web.WebPages.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\System.Web.WebPages.Razor.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\WebActivatorEx.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\WebGrease.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\NHibernate.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\FluentNHibernate.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Iesi.Collections.dll
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\DependecyResolution.pdb
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\EnterpriseSolution.Core.pdb
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\EnterpriseSolution.Infrastructure.pdb
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\EnterpriseSolution.Infrastructure.dll.config
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.AI.DependencyCollector.xml
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.AI.Web.xml
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.AI.WindowsServer.xml
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.ApplicationInsights.xml
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Ninject.xml
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Ninject.Web.Common.xml
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Ninject.Web.Mvc.xml
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Ninject.Web.WebApi.xml
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\System.Web.Http.Cors.xml
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Newtonsoft.Json.xml
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\System.Net.Http.Formatting.xml
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\System.Web.Helpers.xml
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\System.Web.Http.xml
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\System.Web.Http.WebHost.xml
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\System.Web.Mvc.xml
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\System.Web.Optimization.xml
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\System.Web.Razor.xml
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\System.Web.WebPages.xml
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\System.Web.WebPages.Deployment.xml
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\System.Web.WebPages.Razor.xml
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Antlr3.Runtime.pdb
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\EntityFramework.xml
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\EntityFramework.SqlServer.xml
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.AspNet.Identity.Core.xml
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.Owin.xml
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.Owin.Security.xml
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.Owin.Security.Facebook.xml
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.Owin.Security.Cookies.xml
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.Owin.Security.OAuth.xml
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.Owin.Security.Google.xml
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.Owin.Security.Twitter.xml
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\System.Web.Http.Owin.xml
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\NHibernate.xml
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\FluentNHibernate.pdb
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\FluentNHibernate.xml
+E:\cheesecakeict\Fixed Asset Management\EnterpriseSolution\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Iesi.Collections.xml
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\ApplicationInsights.config
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\SqlServerTypes\x64\msvcr120.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\SqlServerTypes\x86\msvcr120.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\roslyn\csc.exe
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\roslyn\System.Collections.Immutable.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\roslyn\System.Reflection.Metadata.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\roslyn\vbc.exe
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\roslyn\VBCSCompiler.exe
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\roslyn\VBCSCompiler.exe.config
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\EnterpriseSolution.WebService.dll.config
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\EnterpriseSolution.WebService.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\EnterpriseSolution.WebService.pdb
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Antlr3.Runtime.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\DependecyResolution.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\EnterpriseSolution.Core.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\EnterpriseSolution.Infrastructure.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\EntityFramework.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\EntityFramework.SqlServer.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.AI.DependencyCollector.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.AI.Web.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.AI.WindowsServer.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.ApplicationInsights.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.Owin.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.Owin.Security.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.Owin.Security.Google.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.ReportViewer.Common.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.ReportViewer.DataVisualization.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.ReportViewer.Design.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.ReportViewer.WebForms.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.ReportViewer.WinForms.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.SqlServer.Types.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.Web.Infrastructure.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Newtonsoft.Json.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Ninject.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Ninject.Web.Common.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Ninject.Web.Mvc.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Ninject.Web.WebApi.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Owin.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\System.Net.Http.Formatting.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\System.Web.Cors.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\System.Web.Helpers.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\System.Web.Http.Cors.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\System.Web.Http.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\System.Web.Http.Owin.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\System.Web.Http.WebHost.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\System.Web.Mvc.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\System.Web.Optimization.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\System.Web.Razor.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\System.Web.WebPages.Deployment.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\System.Web.WebPages.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\System.Web.WebPages.Razor.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\WebActivatorEx.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\WebGrease.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\EnterpriseSolution.Payroll.Core.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\EnterpriseSolution.Payroll.Infrastructure.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\NHibernate.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\FluentNHibernate.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Nut.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\EnvDTE.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\EnterpriseSolution.Common.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Iesi.Collections.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\stdole.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.VisualStudio.VSHelp.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.VisualStudio.ProjectAggregator.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.VisualStudio.ComponentModelHost.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.VisualStudio.TemplateWizardInterface.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.VisualStudio.Debugger.InteropA.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\EnvDTE80.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.Build.Tasks.Core.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.VisualStudio.Data.Services.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\VSLangProj.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.VisualStudio.Data.Core.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\VSLangProj80.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.VisualStudio.ManagedInterfaces.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\System.Threading.Tasks.Dataflow.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.VisualStudio.GraphModel.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.MSXML.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.Build.Utilities.Core.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.Build.Framework.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\VSLangProj2.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\System.Collections.Immutable.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\DependecyResolution.pdb
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\EnterpriseSolution.Core.pdb
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\EnterpriseSolution.Infrastructure.pdb
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\EnterpriseSolution.Infrastructure.dll.config
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.AI.DependencyCollector.xml
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.AI.Web.xml
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.AI.WindowsServer.xml
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.ApplicationInsights.xml
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Ninject.xml
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Ninject.Web.Common.xml
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Ninject.Web.Mvc.xml
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Ninject.Web.WebApi.xml
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\System.Web.Http.Cors.xml
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Newtonsoft.Json.xml
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\System.Net.Http.Formatting.xml
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\System.Web.Helpers.xml
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\System.Web.Http.xml
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\System.Web.Http.WebHost.xml
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\System.Web.Mvc.xml
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\System.Web.Optimization.xml
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\System.Web.Razor.xml
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\System.Web.WebPages.xml
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\System.Web.WebPages.Deployment.xml
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\System.Web.WebPages.Razor.xml
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Antlr3.Runtime.pdb
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\EntityFramework.xml
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\EntityFramework.SqlServer.xml
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.Owin.xml
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.Owin.Security.xml
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.Owin.Security.Google.xml
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\System.Web.Http.Owin.xml
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\EnterpriseSolution.Payroll.Core.pdb
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\EnterpriseSolution.Payroll.Infrastructure.pdb
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\EnterpriseSolution.Payroll.Infrastructure.dll.config
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\NHibernate.xml
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\FluentNHibernate.pdb
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\FluentNHibernate.xml
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\EnterpriseSolution.Common.pdb
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Iesi.Collections.xml
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.VisualStudio.TemplateWizardInterface.xml
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\bin\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\obj\Debug\EnterpriseSolution.WebService.csprojAssemblyReference.cache
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\obj\Debug\EnterpriseSolution.WebService.csproj.CoreCompileInputs.cache
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\obj\Debug\EnterpriseSolution.WebService.csproj.CopyComplete
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\obj\Debug\EnterpriseSolution.WebService.dll
+D:\Cheesecake ICT\EnterpriseSolutions\trunk\EnterpriseSolution\EnterpriseSolution.WebService\obj\Debug\EnterpriseSolution.WebService.pdb
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\ApplicationInsights.config
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\SqlServerTypes\x64\msvcr120.dll
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\SqlServerTypes\x86\msvcr120.dll
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\roslyn\csc.exe
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\roslyn\vbc.exe
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\roslyn\VBCSCompiler.exe
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\EnterpriseSolution.WebService.dll.config
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\EnterpriseSolution.WebService.dll
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\EnterpriseSolution.WebService.pdb
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\Antlr3.Runtime.dll
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\DependecyResolution.dll
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\EnterpriseSolution.Core.dll
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\EnterpriseSolution.Infrastructure.dll
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\EntityFramework.dll
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\EntityFramework.SqlServer.dll
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.AI.Web.dll
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.ApplicationInsights.dll
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.Owin.dll
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.Owin.Security.dll
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.ReportViewer.Design.dll
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.ReportViewer.WebForms.dll
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.ReportViewer.WinForms.dll
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.SqlServer.Types.dll
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\Newtonsoft.Json.dll
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\Ninject.dll
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\Ninject.Web.Common.dll
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\Ninject.Web.Mvc.dll
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\Ninject.Web.WebApi.dll
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\Owin.dll
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\System.Net.Http.Formatting.dll
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\System.Web.Cors.dll
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\System.Web.Helpers.dll
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\System.Web.Http.Cors.dll
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\System.Web.Http.dll
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\System.Web.Http.Owin.dll
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\System.Web.Http.WebHost.dll
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\System.Web.Mvc.dll
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\System.Web.Optimization.dll
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\System.Web.Razor.dll
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\System.Web.WebPages.Deployment.dll
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\System.Web.WebPages.dll
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\System.Web.WebPages.Razor.dll
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\WebActivatorEx.dll
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\WebGrease.dll
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\NHibernate.dll
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\FluentNHibernate.dll
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\Nut.dll
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\EnvDTE.dll
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\Iesi.Collections.dll
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\stdole.dll
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.VisualStudio.Debugger.InteropA.dll
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\EnvDTE80.dll
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.Build.Tasks.Core.dll
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.VisualStudio.Data.Services.dll
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\VSLangProj.dll
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.VisualStudio.Data.Core.dll
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\VSLangProj80.dll
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.VisualStudio.ManagedInterfaces.dll
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\System.Threading.Tasks.Dataflow.dll
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.MSXML.dll
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.Build.Utilities.Core.dll
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.Build.Framework.dll
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\VSLangProj2.dll
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\System.Collections.Immutable.dll
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\DependecyResolution.pdb
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\EnterpriseSolution.Core.pdb
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\EnterpriseSolution.Infrastructure.pdb
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\EnterpriseSolution.Infrastructure.dll.config
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.AI.Web.xml
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.ApplicationInsights.xml
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\Ninject.xml
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\Ninject.Web.Common.xml
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\Ninject.Web.Mvc.xml
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\Ninject.Web.WebApi.xml
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\System.Web.Http.Cors.xml
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\Newtonsoft.Json.xml
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\System.Net.Http.Formatting.xml
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\System.Web.Helpers.xml
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\System.Web.Http.xml
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\System.Web.Http.WebHost.xml
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\System.Web.Mvc.xml
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\System.Web.Optimization.xml
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\System.Web.Razor.xml
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\System.Web.WebPages.xml
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\System.Web.WebPages.Deployment.xml
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\System.Web.WebPages.Razor.xml
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\Antlr3.Runtime.pdb
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\EntityFramework.xml
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\EntityFramework.SqlServer.xml
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.Owin.xml
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.Owin.Security.xml
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\System.Web.Http.Owin.xml
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\NHibernate.xml
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\FluentNHibernate.pdb
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\FluentNHibernate.xml
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\Iesi.Collections.xml
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\bin\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\obj\Debug\EnterpriseSolution.WebService.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\obj\Debug\EnterpriseSolution.WebService.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\obj\Debug\EnterpriseSolution.WebService.csproj.CopyComplete
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\obj\Debug\EnterpriseSolution.WebService.dll
+C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.WebService\obj\Debug\EnterpriseSolution.WebService.pdb

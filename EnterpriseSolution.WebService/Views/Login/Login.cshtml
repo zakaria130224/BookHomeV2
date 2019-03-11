@@ -1,0 +1,68 @@
+﻿@{
+    ViewBag.Title = "Enterprise Solution";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="row" ng-controller="LoginCtrl">
+    <div flash-message="10000"></div>
+
+    <!--Sign in form starts-->
+    <div class="col-xs-12 col-sm-12 col-md-5 col-lg-4 col-lg-offset-4">
+        <div class="well no-padding">
+            <form id="login-form" class="smart-form client-form" ng-submit="login()">
+                <header class="text-center">
+                    <img src="~/Content/img/logo.png" alt="KS Apparels" class="float-right">
+                </header>
+                <header style="padding:5px 13px !important;">
+                    Sign In
+                </header>
+
+                <fieldset>
+                    <!--Email section starts-->
+                    <section>
+                        <label class="label">E-mail</label>
+                        <label class="input">
+                            <i class="icon-append fa fa-user"></i>
+                            <input type="text" name="userName" ng-model="UserName" ng-required=true>
+                            <b class="tooltip tooltip-top-right">
+                                <i class="fa fa-user txt-color-teal"></i> Please enter email address/username
+                            </b>
+                        </label>
+                    </section>
+                    <!--Email section ends-->
+                    <!--Password section starts-->
+                    <section>
+                        <label class="label">Password</label>
+                        <label class="input">
+                            <i class="icon-append fa fa-lock"></i>
+                            <input type="password" name="password" ng-model="Password" ng-required=true>
+                            <b class="tooltip tooltip-top-right">
+                                <i class="fa fa-lock txt-color-teal"></i> Enter your password
+                            </b>
+                        </label>
+                        <div class="note">
+                            <a href="forgotpassword.html">Forgot password?</a>
+                        </div>
+                    </section>
+                    <!--Password section ends-->
+                    <!--Remember me section starts-->
+                    <section>
+                        <label class="checkbox">
+                            <input type="checkbox" name="remember" checked="">
+                            <i></i>Stay signed in
+                        </label>
+                    </section>
+                    <!--Remember me section ends-->
+                </fieldset>
+                <footer>
+                    <button type="submit" class="btn btn-primary">
+                        <i class="fa fa-sign-in"></i> Sign in
+                    </button>
+                </footer>
+            </form>
+
+        </div>
+        
+    </div>
+    <!--Sign in form ends-->
+</div>
