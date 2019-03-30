@@ -83,5 +83,12 @@ namespace EnterpriseSolution.Infrastructure.Repository
             db.SaveChanges();
             return model;
         }
+
+        public TEntity Delete(TEntity model)
+        {
+            db.Entry(model).State = EntityState.Deleted;
+            db.SaveChanges();
+            return model;
+        }
     }
 }

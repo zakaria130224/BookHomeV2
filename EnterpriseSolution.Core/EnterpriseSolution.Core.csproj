@@ -43,6 +43,9 @@
   <ItemGroup>
     <Compile Include="DataModel\SessionDataModel.cs" />
     <Compile Include="DataModel\UserDetailsDataModel.cs" />
+    <Compile Include="Entities\Author.cs" />
+    <Compile Include="Entities\Book.cs" />
+    <Compile Include="Entities\BookCategory.cs" />
     <Compile Include="Entities\Branches.cs" />
     <Compile Include="Entities\EmailConfiguration.cs" />
     <Compile Include="Entities\ErrorLog.cs" />
@@ -58,6 +61,9 @@
     <Compile Include="Repositories\IReportRepository.cs" />
     <Compile Include="Repositories\IRepository.cs" />
     <Compile Include="Repositories\IUsersRepository.cs" />
+    <Compile Include="Services\IAuthorService.cs" />
+    <Compile Include="Services\IBookCategoryService.cs" />
+    <Compile Include="Services\IBookService.cs" />
     <Compile Include="Services\IBranchService.cs" />
     <Compile Include="Services\IConfigService.cs" />
     <Compile Include="Services\INotificationService.cs" />

@@ -32,5 +32,10 @@ namespace EnterpriseSolution.Core.Entities
 
         public DateTime? LastPasswordChangeDate { get; set; }
 
+        [ForeignKey("BranchId")]
+        public Branches Branches { get; set; }
+        [ForeignKey("RoleId")]
+        public UserRoles UserRoles { get; set; }
+
     }
 }

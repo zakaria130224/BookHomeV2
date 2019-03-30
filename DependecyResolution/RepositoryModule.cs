@@ -35,6 +35,9 @@ namespace DependecyResolution
             Bind<IUserRoleService>().To<UserRoleService>();
 
             Bind<IBranchService>().To<BranchService>();
+            Bind<IBookCategoryService>().To<BookCategoryService>();
+            Bind<IBookService>().To<BookService>();
+            Bind<IAuthorService>().To<AuthorService>();
 
         }
     }

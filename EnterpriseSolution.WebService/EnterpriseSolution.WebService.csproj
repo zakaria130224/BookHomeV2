@@ -78,23 +78,26 @@
       <Private>True</Private>
     </Reference>
     <Reference Include="Microsoft.CSharp" />
-    <Reference Include="Microsoft.ReportViewer.Common, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
-      <HintPath>..\packages\Microsoft.ReportViewer.Common.10.0.40219.1\lib\Microsoft.ReportViewer.Common.dll</HintPath>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Report.Viewer.11.0.0.0\lib\net\Microsoft.ReportViewer.Common.dll</HintPath>
     </Reference>
-    <Reference Include="Microsoft.ReportViewer.DataVisualization, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
-      <HintPath>..\packages\Microsoft.ReportViewer.Common.10.0.40219.1\lib\Microsoft.ReportViewer.DataVisualization.dll</HintPath>
+    <Reference Include="Microsoft.ReportViewer.DataVisualization, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.WebForms.150.900.148\lib\net40\Microsoft.ReportViewer.DataVisualization.dll</HintPath>
     </Reference>
-    <Reference Include="Microsoft.ReportViewer.Design, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
-      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.140.1000.523\lib\net40\Microsoft.ReportViewer.Design.dll</HintPath>
+    <Reference Include="Microsoft.ReportViewer.Design, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.WebForms.150.900.148\lib\net40\Microsoft.ReportViewer.Design.dll</HintPath>
     </Reference>
-    <Reference Include="Microsoft.ReportViewer.ProcessingObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
-      <HintPath>..\packages\Microsoft.ReportViewer.Common.10.0.40219.1\lib\Microsoft.ReportViewer.ProcessingObjectModel.dll</HintPath>
+    <Reference Include="Microsoft.ReportViewer.ProcessingObjectModel, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Report.Viewer.11.0.0.0\lib\net\Microsoft.ReportViewer.ProcessingObjectModel.DLL</HintPath>
     </Reference>
-    <Reference Include="Microsoft.ReportViewer.WebForms, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
-      <HintPath>..\packages\Microsoft.ReportViewer.WebForms.10.0.40219.1\lib\Microsoft.ReportViewer.WebForms.dll</HintPath>
+    <Reference Include="Microsoft.ReportViewer.WebDesign, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.WebForms.150.900.148\lib\net40\Microsoft.ReportViewer.WebDesign.dll</HintPath>
     </Reference>
-    <Reference Include="Microsoft.ReportViewer.WinForms, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
-      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.140.1000.523\lib\net40\Microsoft.ReportViewer.WinForms.dll</HintPath>
+    <Reference Include="Microsoft.ReportViewer.WebForms, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Report.Viewer.11.0.0.0\lib\net\Microsoft.ReportViewer.WebForms.DLL</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.WebForms.150.900.148\lib\net40\Microsoft.ReportViewer.WinForms.dll</HintPath>
     </Reference>
     <Reference Include="Microsoft.SqlServer.Types, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
       <HintPath>..\packages\Microsoft.SqlServer.Types.14.0.314.76\lib\net40\Microsoft.SqlServer.Types.dll</HintPath>
@@ -112,6 +115,9 @@
     </Reference>
     <Reference Include="Ninject.Web.WebApi, Version=3.2.0.0, Culture=neutral, PublicKeyToken=c7192dc5380945e7, processorArchitecture=MSIL">
       <HintPath>..\packages\Ninject.Web.WebApi.3.2.4.0\lib\net45-full\Ninject.Web.WebApi.dll</HintPath>
+    </Reference>
+    <Reference Include="ReportViewerForMvc, Version=1.1.1.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\ReportViewerForMvc.1.1.1\lib\net45\ReportViewerForMvc.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Data" />
@@ -288,6 +294,9 @@
     <Compile Include="Areas\HelpPage\XmlDocumentationProvider.cs" />
     <Compile Include="Controllers\AccountController.cs" />
     <Compile Include="Controllers\ApplicationController.cs" />
+    <Compile Include="Controllers\AuthorController.cs" />
+    <Compile Include="Controllers\BookCategoryController.cs" />
+    <Compile Include="Controllers\BookController.cs" />
     <Compile Include="Controllers\BranchController.cs" />
     <Compile Include="Controllers\CommonController.cs" />
     <Compile Include="Controllers\LoginController.cs" />
@@ -306,37 +315,10 @@
     <Compile Include="Models\web\ManageViewModels.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Providers\ApplicationOAuthProvider.cs" />
-    <Compile Include="Reports\DailyTransactionReport.aspx.cs">
-      <DependentUpon>DailyTransactionReport.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="Reports\DailyTransactionReport.aspx.designer.cs">
-      <DependentUpon>DailyTransactionReport.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="Reports\FixedAssetsPurchasedAgainstExpenseBillReport.aspx.cs">
-      <DependentUpon>FixedAssetsPurchasedAgainstExpenseBillReport.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="Reports\FixedAssetsPurchasedAgainstExpenseBillReport.aspx.designer.cs">
-      <DependentUpon>FixedAssetsPurchasedAgainstExpenseBillReport.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="Reports\SaleOfFixedAsset.aspx.cs">
-      <DependentUpon>SaleOfFixedAsset.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="Reports\SaleOfFixedAsset.aspx.designer.cs">
-      <DependentUpon>SaleOfFixedAsset.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="Reports\WriteOffOfFixedAsset.aspx.cs">
-      <DependentUpon>WriteOffOfFixedAsset.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="Reports\WriteOffOfFixedAsset.aspx.designer.cs">
-      <DependentUpon>WriteOffOfFixedAsset.aspx</DependentUpon>
-    </Compile>
     <Compile Include="Results\ChallengeResult.cs" />
     <Compile Include="SqlServerTypes\Loader.cs" />
     <Compile Include="Startup.cs" />
+    <Compile Include="Controllers\ReportController.cs" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Areas\HelpPage\HelpPage.css" />
@@ -428,10 +410,6 @@
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="fonts\glyphicons-halflings-regulard41d.html" />
     <Content Include="Global.asax" />
-    <Content Include="Reports\DailyTransactionReport.aspx" />
-    <Content Include="Reports\FixedAssetsPurchasedAgainstExpenseBillReport.aspx" />
-    <Content Include="Reports\SaleOfFixedAsset.aspx" />
-    <Content Include="Reports\WriteOffOfFixedAsset.aspx" />
     <Content Include="Areas\HelpPage\Views\Web.config" />
     <Content Include="Areas\HelpPage\Views\Shared\_Layout.cshtml" />
     <Content Include="Areas\HelpPage\Views\Help\ResourceModel.cshtml" />
@@ -454,6 +432,7 @@
     <Content Include="ApplicationInsights.config">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
+    <Content Include="ReportViewerWebForm.aspx" />
     <Content Include="SampleFiles\AssetCategoryStagingSample.csv" />
     <Content Include="SampleFiles\AssetStagingSample.csv" />
     <Content Include="SampleFiles\DepreciationStagingSample.csv" />
@@ -535,6 +514,9 @@
     <Content Include="Scripts\angularjs\lodash\lodash.min.js" />
     <Content Include="Scripts\angular\app.js" />
     <Content Include="Scripts\angular\controllers\AdministrationController.js" />
+    <Content Include="Scripts\angular\controllers\AuthorController.js" />
+    <Content Include="Scripts\angular\controllers\BookCategoryController.js" />
+    <Content Include="Scripts\angular\controllers\BookController.js" />
     <Content Include="Scripts\angular\controllers\BranchController.js" />
     <Content Include="Scripts\angular\controllers\DashboardController.js" />
     <Content Include="Scripts\angular\controllers\datepicker.js" />
@@ -553,6 +535,7 @@
     <Content Include="Scripts\angular\directive\select2.js" />
     <Content Include="Scripts\angular\directive\tree-grid\tree-grid-directive.js" />
     <Content Include="Scripts\angular\services\basedapiurl.js" />
+    <Content Include="Scripts\angular\services\BookCategoryService.js" />
     <Content Include="Scripts\angular\services\BranchService.js" />
     <Content Include="Scripts\angular\services\CommonService.js" />
     <Content Include="Scripts\angular\services\DashboardService.js" />
@@ -1924,9 +1907,14 @@
     <None Include="Scripts\jquery-3.1.1.intellisense.js" />
     <None Include="Scripts\jquery.validate-vsdoc.js" />
     <Content Include="Views\Common\JournalView.cshtml" />
+    <Content Include="Views\BookCategory\Index.cshtml" />
+    <Content Include="Views\Report\Index.cshtml" />
+    <Content Include="Views\Book\Index.cshtml" />
+    <Content Include="Views\Author\Index.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
+    <Folder Include="Reports\Dataset\" />
     <Folder Include="UploadedFiles\" />
   </ItemGroup>
   <ItemGroup>
@@ -1951,10 +1939,7 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Reports\RDLC\DailyTransactionReport.rdlc" />
-    <EmbeddedResource Include="Reports\RDLC\FixedAssetsPurchasedAgainstExpenseBillReport.rdlc" />
-    <EmbeddedResource Include="Reports\RDLC\SaleOfFixedAssetReport.rdlc" />
-    <EmbeddedResource Include="Reports\RDLC\WriteOffOfFixedAssetReport.rdlc" />
+    <EmbeddedResource Include="Reports\RDLC\ReportTest.rdlc" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

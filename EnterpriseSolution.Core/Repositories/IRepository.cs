@@ -16,6 +16,7 @@ namespace EnterpriseSolution.Core.Repositories
         void Delete(long id, bool persist = false);
 
         void Delete(TEntity model, bool persist = false);
+        TEntity Delete(TEntity model);
 
         TEntity Get(object id);
 

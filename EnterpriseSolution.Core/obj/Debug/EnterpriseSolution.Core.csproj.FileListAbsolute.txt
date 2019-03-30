@@ -54,3 +54,15 @@ C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.Core\obj\Debug\Enter
 C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.Core\obj\Debug\EnterpriseSolution.Core.dll
 C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.Core\obj\Debug\EnterpriseSolution.Core.pdb
 C:\Users\USER\Desktop\EnterpriseSolution\EnterpriseSolution.Core\obj\Debug\EnterpriseSolution.Core.csprojAssemblyReference.cache
+D:\Git Repos\MVCSeedSolution\EnterpriseSolution.Core\bin\Debug\EnterpriseSolution.Core.dll
+D:\Git Repos\MVCSeedSolution\EnterpriseSolution.Core\bin\Debug\EnterpriseSolution.Core.pdb
+D:\Git Repos\MVCSeedSolution\EnterpriseSolution.Core\obj\Debug\EnterpriseSolution.Core.csprojAssemblyReference.cache
+D:\Git Repos\MVCSeedSolution\EnterpriseSolution.Core\obj\Debug\EnterpriseSolution.Core.csproj.CoreCompileInputs.cache
+D:\Git Repos\MVCSeedSolution\EnterpriseSolution.Core\obj\Debug\EnterpriseSolution.Core.dll
+D:\Git Repos\MVCSeedSolution\EnterpriseSolution.Core\obj\Debug\EnterpriseSolution.Core.pdb
+D:\Git Repos\BookHome\EnterpriseSolution.Core\bin\Debug\EnterpriseSolution.Core.dll
+D:\Git Repos\BookHome\EnterpriseSolution.Core\bin\Debug\EnterpriseSolution.Core.pdb
+D:\Git Repos\BookHome\EnterpriseSolution.Core\obj\Debug\EnterpriseSolution.Core.csproj.CoreCompileInputs.cache
+D:\Git Repos\BookHome\EnterpriseSolution.Core\obj\Debug\EnterpriseSolution.Core.dll
+D:\Git Repos\BookHome\EnterpriseSolution.Core\obj\Debug\EnterpriseSolution.Core.pdb
+D:\Git Repos\BookHome\EnterpriseSolution.Core\obj\Debug\EnterpriseSolution.Core.csprojAssemblyReference.cache

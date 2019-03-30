@@ -105,24 +105,29 @@ namespace EnterpriseSolution.WebService
                      "~/Scripts/angular-touch.js"));
 
             bundles.Add(new ScriptBundle("~/bundles/masterlayoutAngularServicejs").Include(
-                "~/Scripts/angular/services/basedapiurl.js",
-                "~/Scripts/angular/services/loginservice.js",
-                "~/Scripts/angular/services/HttpService.js",
-                "~/Scripts/angular/services/UserService.js",
-                "~/Scripts/angular/services/DashboardService.js",
-                "~/Scripts/angular/services/HelperService.js",
-                "~/Scripts/angular/services/UserRoleService.js",
-                "~/Scripts/angular/services/CommonService.js"
+                "~/Scripts/angular/services/*.js"
+                //"~/Scripts/angular/services/basedapiurl.js",
+                //"~/Scripts/angular/services/loginservice.js",
+                //"~/Scripts/angular/services/HttpService.js",
+                //"~/Scripts/angular/services/UserService.js",
+                //"~/Scripts/angular/services/DashboardService.js",
+                //"~/Scripts/angular/services/HelperService.js",
+                //"~/Scripts/angular/services/UserRoleService.js",
+                //"~/Scripts/angular/services/CommonService.js",
+                //"~/Scripts/angular/services/BookCategoryService.js"
                 ));
 
 
 
             bundles.Add(new ScriptBundle("~/bundles/masterlayoutangularcustomcontrollerjs").Include(
-                    "~/Scripts/angular/controllers/DashboardController.js",
-                     "~/Scripts/angular/controllers/AdministrationController.js",
-                     "~/Scripts/angular/controllers/UserRoleController.js",
-                     "~/Scripts/angular/controllers/UserCntroller.js",
-                     "~/Scripts/angular/controllers/MasterController.js"
+                    "~/Scripts/angular/controllers/*.js"
+                //    "~/Scripts/angular/controllers/DashboardController.js",
+                //     "~/Scripts/angular/controllers/AdministrationController.js",
+                //     "~/Scripts/angular/controllers/UserRoleController.js",
+                //     "~/Scripts/angular/controllers/UserCntroller.js",
+                //     "~/Scripts/angular/controllers/MasterController.js",
+                //"~/Scripts/angular/controllers/BookCategoryController.js",
+                //"~/Scripts/angular/controllers/BookController.js"
 
                      ));
             #endregion

@@ -115,5 +115,12 @@ namespace EnterpriseSolution.Infrastructure.Repository
                 }
             }
         }
+        public TEntity Delete(TEntity model)
+        {
+            //var db = connection.OpenSession();
+            //db.Entry(model).State = EntityState.Deleted;
+            //db.SaveChanges();
+            return model;
+        }
     }
 }
