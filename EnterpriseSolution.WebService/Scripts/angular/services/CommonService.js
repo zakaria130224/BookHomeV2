@@ -1,9 +1,9 @@
 ﻿app.factory("CommonService", function ($http, Flash, toastr, $route) {
 
     return {
-        GetDataModel: function (method,url) {
+        Get: function (url) {
             var promise = $http({
-                method: method,
+                method: 'GET',
                 url: url
             }).then(function (response) {
                 console.log(response);
@@ -15,6 +15,33 @@
                 }
             });
             return promise;
+        },
+        InsertOrUpdate: function (url,Model) {
+            $http({
+                method: 'POST',
+                url: url,
+                data: Model
+            }).then(function successCallback(response) {
+                toastr.success('User Information Successfully Saved!', 'Success');
+                $route.reload();
+            }, function errorCallback(response) {
+
+            });
+
+        },
+        Delete: function (url, Model) {
+            $http({
+                method: 'POST',
+                url: url,
+                data: Model
+            }).then(function successCallback(response) {
+                toastr.warning('User Information Successfully Saved!', 'Success');
+                $route.reload();
+            }, function errorCallback(response) {
+
+            });
+
         }
+
     }
 });

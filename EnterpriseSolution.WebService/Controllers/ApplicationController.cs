@@ -102,6 +102,7 @@ namespace EnterpriseSolution.WebService.Controllers
             navbarItems.Add(new Navbar { Id = 21, nameOption = "Category", controller = "BookCategory", action = "bookcategory", status = true, isParent = false, parentId = 20 });
             navbarItems.Add(new Navbar { Id = 22, nameOption = "Authors", controller = "Author", action = "author", status = true, isParent = false, parentId = 20 });
             navbarItems.Add(new Navbar { Id = 23, nameOption = "Books", controller = "Book", action = "book", status = true, isParent = false, parentId = 20 });
+            navbarItems.Add(new Navbar { Id = 24, nameOption = "Report", controller = "Report", action = "report", status = true, isParent = false , parentId = 0 });
             return PartialView(navbarItems.ToList());
         }
 

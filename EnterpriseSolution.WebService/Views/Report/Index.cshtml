@@ -1,9 +1,43 @@
 ﻿@using ReportViewerForMvc;
 @{
     ViewBag.Title = "Report";
-    Layout = "~/Views/Shared/_MasterLayout.cshtml";
+    //Layout = "~/Views/Shared/_MasterLayout.cshtml";
 }
-
-<div class="row">
+<div align="center" style="min-height: 1000px; margin-top:2%; margin-left: auto; margin-right: auto;">
     @Html.ReportViewer(ViewBag.ReportViewer as Microsoft.Reporting.WebForms.ReportViewer)
 </div>
+@*<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+    <h1 class="page-title txt-color-blueDark">
+        <i class="fa-fw fa fa-home"></i> Settings
+        <span><i class="fa fa-angle-right"></i>&nbsp;Author</span>
+    </h1>
+</div>
+<!-- NEW WIDGET START -->
+<div class="row">
+    <article class="col-sm-12 col-md-12 col-lg-12 sortable-grid ui-sortable">
+
+        <!-- Widget ID (each widget will need unique ID)-->
+        <div class="jarviswidget jarviswidget-sortable" id="wid-id-0" data-widget-colorbutton="false" data-widget-editbutton="false" data-widget-custombutton="false">
+            <header role="heading" class="ui-sortable-handle">
+                <div class="jarviswidget-ctrls" role="menu"><a href="javascript:void(0);" class="button-icon jarviswidget-fullscreen-btn" rel="tooltip" title="" data-placement="bottom" data-original-title="Fullscreen"><i class="fa fa-expand "></i></a></div>
+                <span class="widget-icon"> <i class="fa fa-tree"></i> </span>
+                <h2>Authores</h2>
+            </header>
+
+            <!-- widget div-->
+            <div class="content">
+
+                <div class="row">
+                    <iframe id="ReportViewerWebFormFrame" width="100%" height="600px" scrolling="no" frameborder="0" src="~/ReportViewerWebForm.aspx" allowfullscreen></iframe>
+                </div>
+            </div>
+            <!-- end widget div -->
+        </div>
+        <!-- end widget -->
+    </article>
+</div>*@
+
+
+
+
+

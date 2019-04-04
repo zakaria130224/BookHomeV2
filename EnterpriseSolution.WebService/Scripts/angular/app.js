@@ -42,6 +42,11 @@ var app = angular.module('EnterpriseSolution', ['720kb.datepicker', 'ui.select2'
                 {
                     templateUrl: '/Book/Index',
                     controller: "BookController"
+            })
+            .when('/report',
+                {
+                    templateUrl: '/Report/Index',
+                    controller: "DashboardCtrl"
                 })
             .otherwise({
                 redirectTo: '/dashboard'
