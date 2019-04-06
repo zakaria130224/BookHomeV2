@@ -1112,3 +1112,7 @@ table.dataTable th {
 #tab1 > div:nth-child(1) {
     padding: 10px !important;
 }
+.smart-style-4 #header > :first-child {
+    background: #ffffff !important;
+    border-bottom: 1px solid rgba(0,0,0,.3) !important;
+}
