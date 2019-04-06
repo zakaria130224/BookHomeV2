@@ -1,6 +1,6 @@
 ﻿'use strict';
 
-var app = angular.module('EnterpriseSolution', ['720kb.datepicker', 'ui.select2', 'ngIdle', 'ngRoute', 'flash', 'datatables', 'angular-loading-bar', 'toastr', 'treeGrid', "angucomplete", "cp.ngConfirm", "ng.ckeditor", 'angular-table'])
+var app = angular.module('EnterpriseSolution', ['naif.base64','720kb.datepicker', 'ui.select2', 'ngIdle', 'ngRoute', 'flash', 'datatables', 'angular-loading-bar', 'toastr', 'treeGrid', "angucomplete", "cp.ngConfirm", "ng.ckeditor", 'angular-table'])
     .config(function ($routeProvider, $locationProvider, IdleProvider, KeepaliveProvider) {
 
         $locationProvider.html5Mode(true);

@@ -6,19 +6,19 @@
         <TablixBody>
           <TablixColumns>
             <TablixColumn>
-              <Width>1.50667in</Width>
+              <Width>1.85167in</Width>
             </TablixColumn>
             <TablixColumn>
-              <Width>1.50667in</Width>
+              <Width>1.85167in</Width>
             </TablixColumn>
             <TablixColumn>
-              <Width>1.50667in</Width>
+              <Width>1.85167in</Width>
             </TablixColumn>
             <TablixColumn>
-              <Width>1.50667in</Width>
+              <Width>1.85167in</Width>
             </TablixColumn>
             <TablixColumn>
-              <Width>1.50667in</Width>
+              <Width>1.85167in</Width>
             </TablixColumn>
           </TablixColumns>
           <TablixRows>
@@ -389,9 +389,10 @@
           </TablixMembers>
         </TablixRowHierarchy>
         <DataSetName>BookHomeDataset</DataSetName>
-        <Top>0.05556in</Top>
+        <Top>0.04167in</Top>
+        <Left>0.22832in</Left>
         <Height>0.5in</Height>
-        <Width>7.53334in</Width>
+        <Width>9.25835in</Width>
         <Style>
           <Border>
             <Style>None</Style>
@@ -402,7 +403,7 @@
     <Height>0.63833in</Height>
     <Style />
   </Body>
-  <Width>7.53334in</Width>
+  <Width>9.70835in</Width>
   <Page>
     <PageHeader>
       <Height>0.26389in</Height>
@@ -431,7 +432,7 @@
           <rd:DefaultName>Textbox5</rd:DefaultName>
           <Top>0.01389in</Top>
           <Height>0.25in</Height>
-          <Width>7.53334in</Width>
+          <Width>9.48667in</Width>
           <Style>
             <Border>
               <Style>None</Style>
@@ -520,8 +521,8 @@
         </Border>
       </Style>
     </PageFooter>
-    <PageHeight>11.69in</PageHeight>
-    <PageWidth>8.27in</PageWidth>
+    <PageHeight>8.27in</PageHeight>
+    <PageWidth>11.69in</PageWidth>
     <LeftMargin>1in</LeftMargin>
     <RightMargin>1in</RightMargin>
     <TopMargin>1in</TopMargin>

@@ -16,7 +16,7 @@
             });
             return promise;
         },
-        InsertOrUpdate: function (url,Model) {
+        InsertOrUpdate: function (url, Model) {
             $http({
                 method: 'POST',
                 url: url,
@@ -43,5 +43,5 @@
 
         }
 
-    }
+    };
 });
